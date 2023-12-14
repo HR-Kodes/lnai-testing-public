@@ -1,0 +1,110 @@
+.heading-fillip-form {
+    text-align: center;
+    color: #000000;
+    margin-top: 20px;
+}
+
+.fillip-heading2 {
+    margin-left: 560px;
+    margin-bottom: 80px;
+}
+
+.App-fillip-main-div {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.full-width-input-fillipform{
+    width: '750px';
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+.full-width-input-fillipform:focus {
+    border-color: #080b1a;
+    box-shadow: 0 0 8px rgba(8, 11, 26, 0.3);
+}
+
+
+.file-input-fillipform::file-selector-button {
+    background-color: #656877;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+
+.file-input-fillipform::file-selector-button:hover {
+    background-color: #080B1A;
+}
+
+.terms-and-conditions-fillip {
+    margin-left: 305px;
+    margin-bottom: 50px;
+    font-size: 17px;
+    margin-top: 50px;
+}
+
+.label-2-fillip {
+    display: block;
+    margin-top: 50px;
+    width: 800px;
+    word-wrap: break-word;
+}
+
+.fillip-submit-button{
+    padding: 17px 40px;
+    border-radius: 50px;
+    border: 0;
+    background-color: white;
+    box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-size: 15px;
+    transition: all .5s ease;
+}
+
+.fillip-submit-button:hover {
+    letter-spacing: 3px;
+    background-color: #080B1A;
+    color: hsl(0, 0%, 100%);
+    box-shadow: #080B1A 0px 0px 0px 0px;
+}
+
+.fillip-submit-button:active {
+    letter-spacing: 3px;
+    background-color: #080B1A;
+    color: hsl(0, 0%, 100%);
+    box-shadow: #080B1A 0px 0px 0px 0px;
+    transform: translateY(10px);
+    transition: 100ms;
+}
+
+.aftertable-questions{
+    margin-top: 200px;
+}
+
+.extra-fillip-question-1{
+    margin-left: 300px;
+}
+
+.main-form-answerbox-fillip{
+    margin-top: 100px;
+    gap: 100px;
+}
+
+.div-extra-fillip-question-1{
+    margin-top: -20px;
+}
+
+.div-extra-fillip-question-2{
+    margin-top: -20px;
+}
+
+.div-extra-fillip-question-3{
+    margin-top: -20px;
+}

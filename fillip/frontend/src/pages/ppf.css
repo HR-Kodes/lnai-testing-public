@@ -1,0 +1,245 @@
+.ppf-box {
+  /* background-color: rgba(246, 250, 253, 0.8); */
+  
+  align-items: center;
+  padding-top: 50px;
+}
+
+.ppf-box .ppf-container {
+  display: flex;
+
+  justify-content: center;
+  gap: 1rem;
+}
+.ppf-box .left-side {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+}
+.ppf-heading {
+  font-weight: 700;
+  font-size: 40.6619px;
+  line-height: 49px;
+  color: #080B1A;
+  font-family: Roboto;
+  margin-bottom: 100px;
+  text-align: center;
+}
+.left-side .para1 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  color: #231f20;
+  font-family: Roboto;
+  margin-bottom: 10px;
+}
+.left-side .para2 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #606162;
+  font-family: Roboto;
+  margin-bottom: 14px;
+}
+.radio-buttons {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+  font-family: Roboto;
+}
+.radio-buttons .radio-1,
+.radio-2 {
+  margin-right: 12px;
+  width: 20px;
+  height: 20px;
+  font-family: Roboto;
+}
+.radio-buttons .label {
+  margin-right: 69px;
+  font-family: Roboto;
+  margin-bottom: 0;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #606162;
+}
+.radio-buttons .label {
+  margin-bottom: 0;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #606162;
+  font-family: Roboto;
+}
+.given-input {
+  margin-bottom: 28px;
+}
+.given-input > label {
+  margin-bottom: 12px;
+  display: block;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #606162;
+  font-family: Roboto;
+}
+.user-input-rs > input {
+  padding: 26px;
+  width: 100%;
+  height: 52px;
+  border: 1px solid #caced1;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #231f20;
+  font-family: Roboto;
+}
+.user-input-rs {
+  position: relative;
+}
+.user-input-rs .ruppes-symbol {
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-weight: 700;
+  font-size: 20px;
+  color: #231f20;
+}
+.user-input-rs .percentage-symbol {
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-weight: 700;
+  font-size: 20px;
+  color: #231f20;
+}
+.user-input-rs .year-symbol {
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-weight: 700;
+  font-size: 20px;
+  color: #231f20;
+}
+.ppf-values > select {
+  padding: 26px;
+  width: 100%;
+  height: 52px;
+  border: 1px solid #caced1;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #231f20;
+  font-family: Roboto;
+}
+.ppf-values > option {
+  color: #231f20;
+}
+.ppf-container .right-side {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+
+  max-width: 585px;
+  width: 100%;
+}
+.ppf-container .right-side .right-container {
+  margin-bottom: 35px;
+  padding: 0 16px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  box-shadow: 0 4px 20px rgba(193, 204, 210, 0.25);
+}
+.ppf-container .right-side .right-container .selling-cost {
+  border-bottom: 1px solid #caced1;
+  padding: 24px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.ppf-container .right-side .right-container .selling-cost > p:nth-child(1) {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 27px;
+  color: #231f20;
+  font-family: Roboto;
+}
+
+.ppf-container .right-side .right-container .selling-cost > p:nth-child(2) {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+  color: #000;
+}
+.ppf-container .right-side .right-container .total-ppf {
+  border-bottom: 1px solid #caced1;
+  padding: 24px 0 0 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.ppf-container .right-side .right-container .total-ppf > p:nth-child(1) {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 27px;
+  color: #231f20;
+  font-family: Roboto;
+}
+.ppf-container .right-side .right-container .total-ppf > p:nth-child(2) {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+  color: #000;
+}
+.ppf-container .right-side .right-container .total-profit {
+  padding: 24px 0 0 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.ppf-container .right-side .right-container .total-profit > p:nth-child(1) {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 27px;
+  color: #231f20;
+  font-family: Roboto;
+}
+.ppf-container .right-side .right-container .total-profit > p:nth-child(2) {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+  color: #000;
+}
+@media only screen and (max-width: 600px){
+  .ppf-box{
+    max-width:100vw;
+    overflow: hidden;
+  }
+  .ppf-container
+  {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5px auto;
+  }
+  
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+  .ppf-box{
+    max-width:100vw;
+    overflow: hidden;
+  }
+  .ppf-container 
+  {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5px auto;
+  }
+}

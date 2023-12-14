@@ -1,0 +1,224 @@
+{
+    "options": [
+        {
+            "name": "Number of Individuals Having valid DIN/DPIN",
+            "numbers": [
+                {
+                    "number": 1,
+                    "start_index": 112,
+                    "end_index": 115
+                },
+                {
+                    "number": 2,
+                    "start_index": 112,
+                    "end_index": 118
+                },
+                {
+                    "number": 3,
+                    "start_index": 112,
+                    "end_index": 121
+                },
+                {
+                    "number": 4,
+                    "start_index": 112,
+                    "end_index": 124
+                },
+                {
+                    "number": 5,
+                    "start_index": 112,
+                    "end_index": 127
+                },
+                {
+                    "number": 6,
+                    "start_index": 112,
+                    "end_index": 130
+                },
+                {
+                    "number": 7,
+                    "start_index": 112,
+                    "end_index": 133
+                },
+                {
+                    "number": 8,
+                    "start_index": 112,
+                    "end_index": 136
+                },
+                {
+                    "number": 9,
+                    "start_index": 112,
+                    "end_index": 139
+                },
+                {
+                    "number": 10,
+                    "start_index": 112,
+                    "end_index": 142
+                }
+            ]
+        },
+        {
+            "name": "Number of Individuals not having valid DIN/DPIN",
+            "numbers": [
+                {
+                    "number": 1,
+                    "start_index": 10,
+                    "end_index": 20
+                },
+                {
+                    "number": 2,
+                    "start_index": 10,
+                    "end_index": 30
+                },
+                {
+                    "number": 3,
+                    "start_index": 10,
+                    "end_index": 40
+                },
+                {
+                    "number": 4,
+                    "start_index": 10,
+                    "end_index": 50
+                },
+                {
+                    "number": 5,
+                    "start_index": 10,
+                    "end_index": 60
+                },
+                {
+                    "number": 6,
+                    "start_index": 10,
+                    "end_index": 70
+                },
+                {
+                    "number": 7,
+                    "start_index": 10,
+                    "end_index": 80
+                },
+                {
+                    "number": 8,
+                    "start_index": 10,
+                    "end_index": 90
+                },
+                {
+                    "number": 9,
+                    "start_index": 10,
+                    "end_index": 100
+                },
+                {
+                    "number": 10,
+                    "start_index": 10,
+                    "end_index": 110
+                }
+            ]
+        },
+        {
+            "name": "Number of Body corporates and their nominees Having valid DIN/DPIN",
+            "numbers": [
+                {
+                    "number": 1,
+                    "start_index": 142,
+                    "end_index": 151
+                },
+                {
+                    "number": 2,
+                    "start_index": 142,
+                    "end_index": 160
+                },
+                {
+                    "number": 3,
+                    "start_index": 142,
+                    "end_index": 169
+                },
+                {
+                    "number": 4,
+                    "start_index": 142,
+                    "end_index": 178
+                },
+                {
+                    "number": 5,
+                    "start_index": 142,
+                    "end_index": 187
+                },
+                {
+                    "number": 6,
+                    "start_index": 142,
+                    "end_index": 196
+                },
+                {
+                    "number": 7,
+                    "start_index": 142,
+                    "end_index": 205
+                },
+                {
+                    "number": 8,
+                    "start_index": 142,
+                    "end_index": 214
+                },
+                {
+                    "number": 9,
+                    "start_index": 142,
+                    "end_index": 223
+                },
+                {
+                    "number": 10,
+                    "start_index": 142,
+                    "end_index": 232
+                }
+            ]
+        },
+        {
+            "name": "Number of Body corporates and their nominess not Having valid DIN/DPIN",
+            "numbers": [
+                {
+                    "number": 1,
+                    "start_index": 232,
+                    "end_index": 246
+                },
+                {
+                    "number": 2,
+                    "start_index": 232,
+                    "end_index": 258
+                },
+                {
+                    "number": 3,
+                    "start_index": 232,
+                    "end_index": 270
+                },
+                {
+                    "number": 4,
+                    "start_index": 232,
+                    "end_index": 282
+                },
+                {
+                    "number": 5,
+                    "start_index": 232,
+                    "end_index": 294
+                },
+                {
+                    "number": 6,
+                    "start_index": 232,
+                    "end_index": 306
+                },
+                {
+                    "number": 7,
+                    "start_index": 232,
+                    "end_index": 318
+                },
+                {
+                    "number": 8,
+                    "start_index": 232,
+                    "end_index": 330
+                },
+                {
+                    "number": 9,
+                    "start_index": 232,
+                    "end_index": 342
+                },
+                {
+                    "number": 10,
+                    "start_index": 232,
+                    "end_index": 354
+                }
+            ]
+        }
+    ]
+}

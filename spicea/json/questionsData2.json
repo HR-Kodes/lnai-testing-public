@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "label":"Number of Equity shares"
+    },
+    {
+        "id": 2,
+        "label":"Nominal amount per share (in INR)"
+    }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "title": "Consultation",
+    "data":[ "Talk to a Lawyer", "Talk to a CA","Talk to a CS", "Talk to a IP/Trademark"],
+    "shortDesc": "Speak with our knowledgeable professionals, including experienced Lawyers, Chartered Accountants (CAs), Company Secretaries (CS), and specialized IP/Trademark Lawyers. Receive personalized guidance tailored to your legal and business needs. Schedule a consultation now!",
+    "thumb": "service/07.png",
+    "previewImages": [
+      "service/details/01.jpg",
+      "service/details/02.jpg",
+      "service/details/03.jpg"
+    ],
+    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "features": [
+      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
+      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Tax & Compliance",
+    "data":[ 
+    "GST Registration",
+    "GST Filing",
+    "GST Advisory",
+    "Indirect Tax",
+    "Add a Director",
+    "Remove a Director",
+    "Increase Authorized Capital",
+    "Close the Pvt Ltd Company",
+    "Change Objective/Activity",
+    "Change Address",
+    "Change Company Name",
+    "Add Designated Partner",
+    "Changes to LLP Agreement",
+    "Close the LLP",
+    "Private Limited Company / OPC",
+    "Limited Liability Partnership",
+    "CFSS",
+  "Provident Fund (PF) Registration",
+    "ESI Registration",
+    "Professional Tax Registration",
+    "Shops and Establishments License",
+    "Employee Stock Option Plan [ESOP]",
+    "POSH Compliance",
+    "Accounting and Book-keeping",
+    "Payroll Maintenance",
+    "TDS Return Filing",
+    "Individual Income Tax Filing",
+    "Proprietorship Tax Return Filing",
+    "Income Tax Notice",
+    "Proprietorship to Pvt Ltd Company",
+    "Compliance Check - Secretarial Audit",
+    "Due Digilence",
+    "Partnership to LLP",
+    "Private to Public Limited Company",
+    "Private to One Person Company",
+    "RBI Compliance"
+  ],
+       "shortDesc": "Discover a world of efficiency with our comprehensive range of services. From hassle-free GST Registration, Filing, and Advisory to expertly managing Directors, Capital, and Company Changes, we have got you covered.",
+    "thumb": "service/09.png",
+    "previewImages": [
+      "service/details/01.jpg",
+      "service/details/02.jpg",
+      "service/details/03.jpg"
+    ],
+    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "features": [
+      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
+      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Business Setup",
+    "data":[ 
+    "Private Limited Company",
+    "Limited Liability Partnership",
+    "One Person Company",
+    "Sole Proprietorship",
+    "Nidhi Company",
+    "Producer Company",
+    "Partnership Firm",
+    "Startup India Registration",
+    "Company Name Search",
+    "Digital Signature Certificate",
+    "MSME/SSI Registration",
+    "ISO Certification",
+    "FSSAI Registration Online",
+    "Legal Metrology",
+    "Hallmark Registration",
+    "BIS Registration",
+    "Web/E-Commerce Website Development"
+  ],
+    "shortDesc": "Are you an aspiring entrepreneur looking to establish your own venture? Look no further! Our website offers a wide range of professional services tailored to meet your business needs",
+    "thumb": "service/08.png",
+    "previewImages": [
+      "service/details/01.jpg",
+      "service/details/02.jpg",
+      "service/details/03.jpg"
+    ],
+    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "features": [
+      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
+      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Trademark & IP",
+    "data":[
+    "Trademark Registration",
+    "Search for Trademark",
+    "Respond to TM Objection",
+    "Well Known Trademark",
+    "Trademark Watch",
+    "Trademark Renewal",
+    "Trademark Assignment",
+    "Logo Design",
+    "Copyright Registration",
+    "Indian Patent Search",
+    "Provisonal Application",
+    "Permanent Patent",
+    "Copyright Infringement",
+    "Patent Infringement",
+    "Trademark Infringement",
+    "Logo Design",
+    "Design Registration"
+  ],
+    "shortDesc": "Secure Your Intellectual Property with Our Comprehensive Services!",
+    "thumb": "service/10.png",
+    "previewImages": [
+      "service/details/01.jpg",
+      "service/details/02.jpg",
+      "service/details/03.jpg"
+    ],
+    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "features": [
+      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
+      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Documentation",
+    "data":[
+    "Non Disclosure Agreement NDA",
+    "Service Level Agreement",
+    "Franchise Agreement",
+    "Master Service Agreement",
+    "Shareholders Agreement",
+    "Joint Venture Agreement",
+    "Founders Agreement",
+    "Vendor Agreement",
+    "Consultancy Agreement",
+    "Memorandum of Understanding",
+    "Make a Will",
+    "Power of Attorney",
+    "Terms of Service",
+    "GDPR",
+    "Disclaimer"
+  ],
+    "shortDesc": "When it comes to protecting your business relationships, our comprehensive range of documentation solutions have got you covered. ",
+    "thumb": "service/11.jpg",
+    "previewImages": [
+      "service/details/01.jpg",
+      "service/details/02.jpg",
+      "service/details/03.jpg"
+    ],
+    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "features": [
+      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
+      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "NGO",
+    "data": [
+    "NGO",
+    "Section 8",
+    "Trust Registration",
+    "Society Registration",
+    "NGO Compliance",
+    "Section 8 Complaince",
+    "CSR-1 Filing",
+    "Sec.80G & Sec.12A",
+    "Darpan Registration"
+  ],
+    "shortDesc": "Transform your noble vision into reality by registering your NGO as a Section 8 Company, Trust, or Society. Benefit from specific advantages and legal frameworks based on your chosen structure. ",
+    "thumb": "service/12.jpg",
+    "previewImages": [
+      "service/details/03.jpg",
+      "service/details/01.jpg",
+      "service/details/02.jpg"
+    ],
+    "aboutServiceDesc": "<p>Voluptatum delenitied atqued corrupti is eseted quased stias cepturi sint aete non provident, csimilique sunt dunt labore ete dolored magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidun</p>   <p>Corrupti deleniti atque magnam is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est dolorem</p>",
+    "features": [
+      "Voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat",
+      "Atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat"
+    ]
+  }
+]

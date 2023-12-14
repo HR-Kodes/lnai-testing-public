@@ -1,0 +1,13 @@
+.feature-box{
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    padding: 5px;
+    width: 28% !important;
+    height: 160px;
+    color: black;
+    background-color: white;
+    transition: transform 0.3s ease;
+}
+.feature-box:hover{
+    transform: translateY(-10px);
+}

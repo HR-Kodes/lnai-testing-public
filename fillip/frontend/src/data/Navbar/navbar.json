@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "link": "/home-one",
+    "megaMenu": false
+    
+  },
+  {
+    "id": 2,
+    "title": "About",
+    "link": "/about",
+    "megaMenu": false,
+    "subMenu": false
+  },
+  {
+    "id": 3,
+    "title": "Services",
+    "link": "/services",
+    "megaMenu": false,
+    "subMenu": false
+  },
+  {
+    "id": 4,
+    "title": "Team",
+    "link": "/team",
+    "megaMenu": false,
+    "subMenu": false
+  },
+  {
+    "id": 5,
+    "title": "Tools",
+    "link" : "#",
+    "megaMenu":false,
+    "subMenu": [
+      {
+        "title": "GST CALCULATOR",
+        "link": "/gstcalculator"
+      },
+      {
+        "title": "SIP CALCULATOR",
+        "link": "/sipcalculator"
+      },
+      {
+        "title": "BUSSINESS SETUP CALCULATOR",
+        "link": "/bussinesscalculator"
+      },
+      {
+        "title": "SALARY CALCULATOR",
+        "link": "/Salarycalculator"
+      },
+      {
+        "title": "TDS CALCULATOR",
+        "link": "/tdscalculator"
+      },
+      {
+        "title": "NPS CALCULATOR",
+        "link": "/npscalculator"
+      },
+      {
+        "title": "RETIRENMENT PLANNING ",
+        "link": "/retirementcalculator"
+      },
+      {
+        "title": "PPF CALCULATOR",
+        "link": "/ppfcalculator"
+      },
+      
+      {
+        "title": "HRA CALCULATOR",
+        "link": "/hracalculator"
+      },{
+        "title": "EPF CALCULATOR",
+        "link": "/epfcalculator"
+      },
+      {
+        "title": "INCOME TAX CALCULATOR",
+        "link": "/incometaxcalculator"
+      },
+      {
+        "title": "RD CALCULATOR",
+        "link": "/rdcalculator"
+      },
+      {
+        "title": "GRATUITY CALCULATOR",
+        "link": "/gratuitycalculator"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Contact",
+    "link": "/contact"
+  },
+  {
+    "id": 7,
+    "title": "Documentation",
+    "link": "/documentation"
+  }
+  
+]

@@ -1,0 +1,78 @@
+{
+  "isRegistered": "YES",
+  "srn": "asdas",
+  "registeredAddress": {
+    "addressI": "asdad",
+    "addressII": "dasdad",
+    "pin": "dasda",
+    "area": "ddsada",
+    "city": "dasd",
+    "District": "dassdads",
+    "state": "wdad",
+    "country": "dasd",
+    "mobile": "dasd"
+  },
+  "contactDetails": {
+    "phone": "asd",
+    "mobile": "czc",
+    "fax": "ddasd",
+    "email": "dasd",
+    "company": "dsad"
+  },
+  "3eAdressProofURL": "Electricity bill (1).pdf",
+  "3eUtilityBillsURL": "Sachin_Bank (1).pdf",
+  "BasicdetailsofDesignatedpartner1": {
+    "placeOfBirthState1": "ads",
+    "placeOfBirthDistrict1": "asda",
+    "mobileNo1": "das",
+    "emailid1": "das"
+  },
+  "occupationType1": "Private Employment",
+  "educationalQualification1": "Bachelor's Degree",
+  "Permanentaddress1": {
+    "addressI1": "sadas",
+    "addressII1": "dassd",
+    "pin1": "dsad",
+    "area1": "dsad",
+    "city1": "dassd",
+    "district1": "dasd",
+    "state1": "dassd",
+    "country1": "ada",
+    "phone1": "asd"
+  },
+  "Durationofstayatpresentaddress1": {
+    "durationStayedAtPresentAddressYears1": 10,
+    "durationStayedAtPresentAddressMonth1": 5
+  },
+  "ProofOfIdentity1": {
+    "17-AADHAR_CARD_NUMBER": "add",
+    "17-AADHAR_CARD_UPLOAD": "Electricity bill (1).pdf",
+    "17-PAN_CARD_UPLOAD": "sachin_aadhar_merged (1).pdf",
+    "17-PAN_CARD_NUMBER1": "das",
+    "firstName1": "dsad",
+    "middleName1": "dasd",
+    "surname1": "dasd",
+    "fatherFirstName1": "dassd",
+    "fatherMiddleName1": "dasd",
+    "fathersurname1": "dad",
+    "17-DATE": "2023-09-22T18:30:00.000Z"
+  },
+  "ResidentialProof1": {
+    "18-RESIDENTIAL_PROOF_OPTION": "Telephone Bill",
+    "18-RESIDENTIAL_PROOF_UPLOAD_LINK": "Electricity bill (1).pdf",
+    "18-RESIDENTIAL_PROOF_NUMBER": "2131"
+  },
+  "inCaseOfCompanySeekingConversion1": {
+    "numberOfsharesHeld1": "das",
+    "paidupvalueofsharesheld1": "dasd"
+  },
+  "formOfContribution1": "Other than Cash",
+  "monetaryValueOfContributionInFigures1": "50000",
+  "newKeyFor112": "YES",
+  "newKeyFor113": "YES",
+  "designatedpartnerID1": "awdsad",
+  "total_Number_Of_Partners": 2,
+  "Number_of_Designated_partners": 2,
+  "individualValidDINorDPIN": "1",
+  "individualNotValidDINorDPIN": "1"
+}

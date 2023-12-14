@@ -1,0 +1,254 @@
+{
+    "aplCd": 35442068,
+    "rgdtls": {
+        "aplst": "DFT",
+        "aplty": "APLRG",
+        "duedt": "28/09/2023",
+        "moddt": "28/08/2023",
+        "mbno": "7050541423",
+        "em": "pratikagarwal.me19@bmsce.ac.in"
+    },
+    "bzdtls": {
+        "bzdtlsbz": {
+            "addltrdnms": [],
+            "regCategory": [],
+            "rslibrg": "DSEP",
+            "iscasdl": "N",
+            "isopcmp": "N",
+            "lgnmbzpan": "VETHIKA D PORWAL",
+            "pan": {
+                "num": "GGUPP1603Q",
+                "iv": "V",
+                "panDate": "Pan date not available"
+            },
+            "stcd": "29",
+            "dst": "KABNU",
+            "trdnm": "highheelsnthreads",
+            "cobz": "PRO",
+            "cmbzdt": "28/08/2023",
+            "librgdt": "28/08/2023",
+            "otherRsLib": "",
+            "sezDtls": {}
+        },
+        "exrgdtls": []
+    },
+    "decdtls": {
+        "dt": "26/08/2023"
+    },
+    "secToken": "202300042016TRN",
+    "map": {
+        "opdtls": [
+            {
+                "eid": "2",
+                "lt": "12.9847500000001",
+                "lg": "77.5582890000001",
+                "eloc": "F8JQWX",
+                "city": "Bengaluru",
+                "geoCodeLevel": "Building",
+                "nrbyLdMrk": null,
+                "locSubloc": "Rajaji Nagar",
+                "feedback": {
+                    "locSubloc": true,
+                    "st": true,
+                    "bnm": true,
+                    "bno": true,
+                    "nrbyLdMrk": false
+                }
+            }
+        ],
+        "asgdtls": [
+            {
+                "eid": "2",
+                "lt": "12.951735",
+                "lg": "77.568406",
+                "eloc": "E71XNI",
+                "city": "Bengaluru",
+                "geoCodeLevel": "Building",
+                "nrbyLdMrk": null,
+                "locSubloc": "Sankarapuram",
+                "feedback": {
+                    "locSubloc": true,
+                    "st": true,
+                    "bnm": true,
+                    "bno": true,
+                    "nrbyLdMrk": false
+                }
+            },
+            {
+                "eid": "2",
+                "lt": "12.9847500000001",
+                "lg": "77.5582890000001",
+                "eloc": "F8JQWX",
+                "city": "Bengaluru",
+                "geoCodeLevel": "Building",
+                "nrbyLdMrk": null,
+                "locSubloc": "Rajaji Nagar",
+                "feedback": {
+                    "locSubloc": true,
+                    "st": true,
+                    "bnm": true,
+                    "bno": true,
+                    "nrbyLdMrk": false
+                }
+            }
+        ],
+        "ppbzdtls": {
+            "lt": "12.9847500000001",
+            "lg": "77.5582890000001",
+            "eloc": "F8JQWX",
+            "city": "Bengaluru",
+            "geoCodeLevel": "Building",
+            "nrbyLdMrk": "State Bank Of India",
+            "locSubloc": "Rajaji Nagar",
+            "feedback": {
+                "locSubloc": true,
+                "st": true,
+                "bnm": true,
+                "bno": true,
+                "nrbyLdMrk": true
+            }
+        }
+    },
+    "opdtls": [
+        {
+            "iscitind": "Y",
+            "isNewSignatoryDetailsAfterSCN": false,
+            "fn": "VETHIKA",
+            "mn": "D",
+            "ln": "PORWAL",
+            "pan": {
+                "num": "GGUPP1603Q"
+            },
+            "rsad": {
+                "cnty": "IND",
+                "pncd": "560010",
+                "dst": "KABNU",
+                "loc": "Bengaluru",
+                "stcd": "29",
+                "st": "63rd Cross Road",
+                "bnm": "632",
+                "bno": "632",
+                "flno": "2nd Floor"
+            },
+            "isasg": "Y",
+            "fhfn": "DILIP",
+            "fhmn": "",
+            "fhln": "KUMAR",
+            "dob": "18/01/2000",
+            "mbno": "7050541423",
+            "em": "pratikagarwal.me19@bmsce.ac.in",
+            "gd": "F",
+            "dg": "SOLE PROPREITOR",
+            "dcupdtls": [],
+            "eid": "2"
+        }
+    ],
+    "asgdtls": [
+        {
+            "iscitind": "Y",
+            "isNewSignatoryDetailsAfterSCN": false,
+            "rsad": {
+                "cnty": "IND",
+                "pncd": "560004",
+                "dst": "KABNU",
+                "loc": "Bengaluru",
+                "stcd": "29",
+                "st": "Chandra Shekhar Layout Road",
+                "bnm": "8/26",
+                "bno": "8/26"
+            },
+            "fn": "KASHVI",
+            "mn": "D",
+            "ln": "JAIN",
+            "fhfn": "DILEEP",
+            "fhmn": "KUMAR",
+            "fhln": "JAIN",
+            "dob": "19/10/2000",
+            "mbno": "9481829401",
+            "em": "kashvijain19@gmail.com",
+            "gd": "F",
+            "dg": "EMPLOYEE",
+            "pan": {
+                "num": "BUTPJ7345F"
+            },
+            "dcupdtls": [],
+            "eid": 8
+        },
+        {
+            "iscitind": "Y",
+            "isNewSignatoryDetailsAfterSCN": false,
+            "fn": "VETHIKA",
+            "mn": "D",
+            "ln": "PORWAL",
+            "pan": {
+                "num": "GGUPP1603Q"
+            },
+            "rsad": {
+                "cnty": "IND",
+                "pncd": "560010",
+                "dst": "KABNU",
+                "loc": "Bengaluru",
+                "stcd": "29",
+                "st": "63rd Cross Road",
+                "bnm": "632",
+                "bno": "632",
+                "flno": "GROUND FLOOR"
+            },
+            "isasg": "Y",
+            "fhfn": "DILIP",
+            "fhmn": "",
+            "fhln": "KUMAR",
+            "dob": "18/01/2000",
+            "mbno": "7353239757",
+            "em": "vethikaporwal@gmail.com",
+            "gd": "F",
+            "dg": "SOLE PROPREITOR",
+            "dcupdtls": [],
+            "eid": "2",
+            "ispas": "Y"
+        }
+    ],
+    "ppbzdtls": {
+        "add": {
+            "stcd": "29",
+            "pncd": "560010",
+            "dst": "KABNU",
+            "loc": "Bengaluru",
+            "lg": "77.5582890000001",
+            "lt": "12.9847500000001",
+            "st": "63rd Cross Road",
+            "bnm": "632",
+            "bno": "632",
+            "flno": "ground floor"
+        },
+        "ntbz": [
+            "RBU"
+        ],
+        "contdtls": {
+            "em": "pratikagarwal.me19@bmsce.ac.in",
+            "mbno": "7050541423"
+        },
+        "hasaddl": "N",
+        "sj": {
+            "stjd": " LOCAL GST Office",
+            "stjdno": "KA030"
+        },
+        "cj": {
+            "comrtcd": "YU",
+            "divsncd": "YU02",
+            "rangecd": "YU0202"
+        },
+        "psnt": "CON",
+        "dcupdtls": []
+    },
+    "gdssvcdtls": {
+        "bzgddtls": [
+            {
+                "gdes": "Articles of apparel and clothing accessories",
+                "hsncd": "430310",
+                "eid": 3
+            }
+        ],
+        "bzsdtls": []
+    }
+}

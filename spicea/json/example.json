@@ -1,0 +1,91 @@
+{
+    "_id": {
+        "$oid": "64f9a19c6602e2947fc20bea"
+    },
+    "Company_name": "NewAtom Constructions Private Limited",
+    "Description": "Specialised construction like construction oif windmills, runways etc",
+    "address_ownership": "Owned",
+    "owner_name": "Vethika D Porwal",
+    "C_Name7_Input": "1",
+    "C_Name7_Value": {
+        "Nominal amount per share (in INR)": [
+            {
+                "AUTHORIZED CAPITAL": "1"
+            },
+            {
+                "SUBSCRIBED CAPITAL": "1"
+            }
+        ],
+        "Number of Equity shares": [
+            {
+                "AUTHORIZED CAPITAL": "50000"
+            },
+            {
+                "SUBSCRIBED CAPITAL": "10000"
+            }
+        ]
+    },
+    "DIN_1_shareholder": "no",
+    "status_2_shareholder": "Yes",
+    "DSC_1_shareholder": "Yes",
+    "shareholding_1_shareholder": "50",
+    "info_1_shareholder": "vethika@gmail.com 9895475123 Mumbai",
+    "stay_present_address_1_shareholder": {
+        "$numberInt": "4"
+    },
+    "education_1_shareholder": "Bachelors",
+    "occupation_1_shareholder": "Business",
+    "designation_1_shareholder": "Director",
+    "category_1_shareholder": "Promoter",
+    "position_1_shareholder": "Executive Director",
+    "citizenship_1_shareholder": "Indian",
+    "DIN_2_shareholder": "no",
+    "DSC_2_shareholder": "Yes",
+    "Shareholding_2_shareholder": "50",
+    "info_2_shareholder": "kashvi@gmail.com 6854123985 Delhi",
+    "stay_present_address_2_shareholder": {
+        "$numberInt": "3"
+    },
+    "education_2_shareholder": "CS",
+    "occupation_2_shareholder": "Proffesional",
+    "designation_2_shareholder": "Director",
+    "category_2_shareholder": "Promoter",
+    "position_2_shareholder": "Executive Director",
+    "citizenship_2_shareholder": "Indian",
+    "Director_Shareholder_same": "Yes",
+    "Authorized_Signatory": "Vethika D Porwal",
+    "authorized_capital": "100000",
+    "paidup_capital": "10000",
+    "post_incorp_services": "Yes",
+    "Marketing_Authorization": "Yes",
+    "company_address_proof": {
+        "imgLocation": "https://legalnitiai.s3.ap-south-1.amazonaws.com/image/5622423410514_Screenshot%202023-08-16%20235312.png"
+    },
+    "photo_1_shareholder": {
+        "imgLocation": "https://legalnitiai.s3.ap-south-1.amazonaws.com/image/17232065670163_Screenshot%202023-08-16%20234901.png"
+    },
+    "pan_1_shareholder": {
+        "imgLocation": "https://legalnitiai.s3.ap-south-1.amazonaws.com/image/97351859288950_Screenshot%202023-07-04%20005537.png"
+    },
+    "address_proof_1_shareholder": {
+        "imgLocation": "https://legalnitiai.s3.ap-south-1.amazonaws.com/image/69765977921641_Screenshot%202023-08-16%20235406.png"
+    },
+    "aadhar_1_shareholder": {
+        "imgLocation": "https://legalnitiai.s3.ap-south-1.amazonaws.com/image/36064816636283_Screenshot%202023-06-29%20182745.png"
+    },
+    "photo_2_shareholder": {
+        "imgLocation": "https://legalnitiai.s3.ap-south-1.amazonaws.com/image/71366993732546_Screenshot%202023-06-25%20185255.png"
+    },
+    "pan_2_shareholder": {
+        "imgLocation": "https://legalnitiai.s3.ap-south-1.amazonaws.com/image/69791833697458_Screenshot%202023-06-22%20144106.png"
+    },
+    "aadhar_2_shareholder": {
+        "imgLocation": "https://legalnitiai.s3.ap-south-1.amazonaws.com/image/32776777071059_Screenshot%202023-05-24%20010014.png"
+    },
+    "address_proof_2_shareholder": {
+        "imgLocation": "https://legalnitiai.s3.ap-south-1.amazonaws.com/image/45179421590531_Screenshot%202023-08-16%20235349.png"
+    },
+    "Specimen_Authorized_Signatory": {
+        "imgLocation": "https://legalnitiai.s3.ap-south-1.amazonaws.com/image/21267427047427_Screenshot%202023-04-23%20233501.png"
+    }
+}

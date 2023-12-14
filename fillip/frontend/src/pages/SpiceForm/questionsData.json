@@ -1,0 +1,235 @@
+[
+    {
+        "id": 1,
+        "info":"Can you think of a really cool name for your new company to incorporate? Write it down and also think of two or three other names you like. Example: 1. Godaddy Private Limited 2. Namcheap Private Limited",
+        "label": "Write the name in order of priority on the basis of which the company will get incorporated?"
+    },
+
+    {
+        "id": 2,
+        "info": "Only a short mentioning of the main products/services/activity of the business is required.Normally it has to have 5 to 8 points mentioning the business activities relating to a single industry. EXAMPLE OF MAIN OBJECTS:IT Industry: Software development, IT enabled services, Computer sales, BPO, digitalmarketing, e-commerce, web designing, IT consulting etc.Textile Industry: Manufacturing and trading of cloth, fashion designing, tailoring, apparels,leather products, dyeing.",
+        "label": "What would be the main activity of the company?"
+    },
+
+    {
+        "id": 3,
+        "info":"",
+        "label": "Please mention the address where the company would be registered?"
+    },
+
+    {
+        "id": 4,
+        "info": "Electricity bill/ Gas bill (NOT OLDER THAN 2 MONTHS) / Municipal Tax Receipt paid (ALL DOCUMENTS SHOULD BE IN THE NAME OF THE OWNER OF THE PROPERTY WHERE THE COMPANY IS GOING TO BE REGISTERTED)",
+        "label": "Address proof of where the company is going to be registered"
+    },
+
+    {
+        "id": 5,
+        "info": "",
+        "label": "The address mentioned above is:"
+    },
+
+    {
+        "id": 6,
+        "info": "",
+        "label": "What is the name of the owner of the property mentioned above?"
+    },
+
+    {
+        "id": 7,
+        "info":"",
+        "label": "How many shareholders (promoters, owners) are to be there in the company?"
+    },
+
+    {
+        "id": 8,
+        "info":"",
+        "label": "Names of the Shareholders"
+    },
+
+    {
+        "id": 9,
+        "info":"Only required if the person was director in another company",
+        "label": "Please enter DIN(Director Identification Number) if the 1st shareholder already has a DIN?"
+    },
+
+    {
+        "id": 10,
+        "info":"Only required if the person was director in another company",
+        "label": "Whether the 1st shareholder is also a director in the company?"
+    },
+
+    {
+        "id": 11,
+        "info":"",
+        "label": "Does the shareholder already have a DSC (Digital Signature Certificate)?"
+    },
+
+    {
+        "id": 12,
+        "info":"",
+        "label": "Percentage of Shareholding of 1st Shareholder in the company"
+    },
+
+    {
+        "id": 13,
+        "info":"",
+        "label": "Email ID,Phone number and place of birth of the 1st Shareholder"
+    },
+
+    {
+        "id": 14,
+        "info":"",
+        "label": "Educational Qualification of the 1st Shareholder"
+    },
+
+    {
+        "id": 15,
+        "info":"",
+        "label": "Occupation of the 1st Shareholder"
+    },
+
+    {
+        "id": 16,
+        "info":"",
+        "label": "Citizenship status of the 1st Shareholder"
+    },
+
+    {
+        "id": 17,
+        "info":"A copy of the passport size photo would also work, please provide a clear picture",
+        "label": "Please upload the Photo of the 1st Shareholder"
+    },
+
+    {
+        "id": 18,
+        "info":"",
+        "label": "Please upload the PAN Card of the 1st Shareholder"
+    },
+
+    {
+        "id": 19,
+        "info":"Aadhar Card(Front and Back) / Passport / Voter's ID / Driving License",
+        "label": "Please upload identity proof of 1st shareholder"
+    },
+
+    {
+        "id": 20,
+        "info":"Bank Statement / Electricity Bill / Mobile Bill / Phone Bill (NOT OLDER THAN 2 MONTHS FROM TODAY). If Bank passbook is being uploaded, please attach the front page of the passbook along with a transaction statement with at-least one transaction not older than 2 months.",
+        "label": "Please upload the address proof of the 1st shareholder"
+    },
+
+    {
+        "id": 21,
+        "info":"Only required if the person was director in another company",
+        "label": "Please enter DIN (Director Identification Number) if the 2nd shareholder already has a DIN?"
+    },
+
+    {
+        "id": 22,
+        "info":"Only required if the person was director in another company",
+        "label": "Whether the 2nd shareholder is also a director in the company?"
+    },
+
+    {
+        "id": 23,
+        "info":"",
+        "label": "Does the shareholder already have a DSC (Digital Signature Certificate)?"
+    },
+
+    {
+        "id": 24,
+        "info":"",
+        "label": "Percentage of Shareholding of 2nd Shareholder in the company"
+    },
+
+    {
+        "id": 25,
+        "info":"",
+        "label": "Email ID,Phone number and place of birth of the 2nd Shareholder"
+    },
+
+    {
+        "id": 26,
+        "info":"",
+        "label": "Educational Qualification of the 2nd Shareholder"
+    },
+
+    {
+        "id": 27,
+        "info":"",
+        "label": "Occupation of the 2nd Shareholder"
+    },
+
+    {
+        "id": 28,
+        "info":"",
+        "label": "Citizenship status of the 2nd Shareholder"
+    },
+
+    {
+        "id": 29,
+        "info":"A copy of the passport size photo would also work, please provide a clear picture",
+        "label": "Please upload the Photo of the 2nd Shareholder"
+    },
+
+    {
+        "id": 30,
+        "info":"",
+        "label": "Please upload the PAN Card of the 2nd Shareholder"
+    },
+
+    {
+        "id": 31,
+        "info":"Aadhar Card(Front and Back) / Passport / Voter's ID / Driving License",
+        "label": "Please upload identity proof of 2nd shareholder"
+    },
+
+    {
+        "id": 32,
+        "info":"Bank Statement / Electricity Bill / Mobile Bill / Phone Bill (NOT OLDER THAN 2 MONTHS FROM TODAY). If Bank passbook is being uploaded, please attach the front page of the passbook along with a transaction statement with at-least one transaction not older than 2 months.",
+        "label": "Please upload the address proof of the 2nd shareholder"
+    },
+
+    {
+        "id": 33,
+        "info": "",
+        "label": "Are the directors the same as shareholders?"
+    },
+
+    {
+        "id": 34,
+        "info":"Please enter the name of the Director who would be signing the incorporation documents on behalf of the company",
+        "label": "Authorised Signatory of the Company"
+    },
+
+    {
+        "id": 35,
+        "info":"A copy of the signature of the Authorised signatory mentioned above on a white paper. The same is required as an attachment in the incorporation documents that is submitted to MCA.",
+        "label": "Specimen Signature of the Authorised Signatory"
+    },
+
+    {
+        "id": 36,
+        "info":"Authorised capital is the MAXIMUM AMOUNT that you can invest in the company. PLEASE NOTE the amount mentioned here NEED NOT BE DEPOSITED in the bank account of the company. The minimum authorised capital as per law is ₹ 1,00,000",
+        "label": "What is the authorised capital of the proposed company?"
+    },
+
+    {
+        "id": 37,
+        "info":"Paid-up capital is the amount THAT NEEDS TO BE DEPOSITED TO THE BANK ACCOUNT OF THE COMPANY AFTER INCORPORATION. Please Note - There is NO MINIMUM amount to be kept as paid-up capital of the company, but we suggest you to keep it at ₹ 10,000 as banks usually require a minimum balance of at-least ₹ 10,000 and the same needs to be deposited into the bank account of the company",
+        "label": "What is the paid-up capital of the proposed company?"
+    },
+
+    {
+        "id": 38,
+        "info":"",
+        "label": "Would you require Web Development,Pitch Deck,Notion,Investor proposal services post incorporation of your Company?"
+    },
+
+    {
+        "id": 39,
+        "info":"This section is optional and it is not related to the incorporation of the company. We may use the above details once your company is incorporated. ",
+        "label": "Authorize us to use your name, photograph and the name of the company in our website for marketing. "
+    }
+]

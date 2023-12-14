@@ -1,0 +1,147 @@
+{
+    "gstin": "27AHQPA7588L1ZJ",
+    "fp": "082023",
+    "gt": 0,
+    "cur_gt": 0,
+    "b2b": [{
+                "ctin": "29CCSPM8443B1Z6",
+                "inv": [{
+                            "inum": "6515",
+                            "idt": "30-06-2023",
+                            "pos": "29",
+                            "rchrg": "N",
+                            "inv_typ": "R",
+                            "itms": [{
+                                "num": 1,
+                                "itm_det": {
+                                    "rt": 0
+                                }
+                            }, {
+                                "num": 10,
+                                "itm_det": {
+                                    "rt": 0.1
+                                }
+                            }, {
+                                "num": 25,
+                                "itm_det": {
+                                    "rt": 0.25
+                                }
+                            }, {
+                                "num": 100,
+                                "itm_det": {
+                                    "rt": 1
+                                }
+                            }, {
+                                "num": 150,
+                                "itm_det": {
+                                    "rt": 1.5
+                                }
+                            }, {
+                                "num": 300,
+                                "itm_det": {
+                                    "rt": 3
+                                }
+                            }, {
+                                "num": 500,
+                                "itm_det": {
+                                    "rt": 5
+                                }
+                            }, {
+                                "num": 600,
+                                "itm_det": {
+                                    "rt": 6
+                                }
+                            }, {
+                                "num": 750,
+                                "itm_det": {
+                                    "rt": 7.5
+                                }
+                            }, {
+                                "num": 1200,
+                                "itm_det": {
+                                    "rt": 12
+                                }
+                            }, {
+                                "num": 1800,
+                                "itm_det": {
+                                    "rt": 18,
+                                    "txval": "33000.00",
+                                    "camt": 2970,
+                                    "samt": 2970
+                                }
+                            }, {
+                                "num": 2800,
+                                "itm_det": {
+                                    "rt": 28
+                                }
+                            }]
+                            "updby": "S",
+                            "val": "33000.00",
+                            "etin": null,
+                            "diff_percent": null}],
+                            "b2ba": [],
+                            "b2cl": [],
+                            "b2cla": [],
+                            "cdnr": [],
+                            "cdnra": [],
+                            "b2cs": [],
+                            "b2csa": [],
+                            "exp": [],
+                            "expa": [],
+                            "hsn": {
+                                "data": [{
+                                    "num": 1,
+                                    "hsn_sc": "961700",
+                                    "desc": "VACUUM FLASKS AND OTHER VACUUM VESSELS, COMPLETE, PARTS THEREOF OTHER THAN GLASS INNERS",
+                                    "uqc": "pcs",
+                                    "qty": 100,
+                                    "txval": 5940,
+                                    "iamt": 0,
+                                    "csamt": 0,
+                                    "rt": 330.00
+                                }]
+                            },
+                            "nil": {
+                                "inv": []
+                            },
+                            "txpd": [],
+                            "txpda": [],
+                            "at": [],
+                            "ata": [],
+                            "cdnur": [],
+                            "cdnura": [],
+                            "supeco": {
+                                "clttx": [],
+                                "paytx": []
+                            },
+                            "supecoa": {
+                                "clttxa": [],
+                                "paytxa": []
+                            },
+                            "ecom": {
+                                "b2b": [],
+                                "b2c": [],
+                                "urp2b": [],
+                                "urp2c": []
+                            },
+                            "ecoma": {
+                                "b2ba": [],
+                                "b2ca": [],
+                                "urp2ba": [],
+                                "urp2ca": []
+                            },
+                            "doc_issue": {
+                                "flag": "N",
+                                "doc_det": [{
+                                    "docs": [{
+                                        "cancel": 0,
+                                        "num": 1,
+                                        "totnum": 1,
+                                        "from": "6515",
+                                        "to": "6515",
+                                        "net_issue": 1
+                                    }],
+                                    "doc_num": 1
+                                }]
+                            }
+                        }

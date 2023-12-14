@@ -1,0 +1,49 @@
+{
+  "BasicdetailsofDesignatedpartner1": {
+    "placeOfBirthState1": "adssdfasfa",
+    "placeOfBirthDistrict1": "asdadfdasf",
+    "mobileNo1": "asdadfdsafasd",
+    "emailid1": "asddsafsadfsdafsadf"
+  },
+  "occupationType1": "Business",
+  "educationalQualification1": "Vocational Qualification",
+  "Permanentaddress1": {
+    "addressI1": "asd",
+    "addressII1": "asd",
+    "pin1": "asd",
+    "area1": "asd",
+    "city1": "asd",
+    "district1": "asd",
+    "state1": "sad",
+    "country1": "asd",
+    "phone1": "ad"
+  },
+  "Durationofstayatpresentaddress1": {
+    "durationStayedAtPresentAddressYears1": 5,
+    "durationStayedAtPresentAddressMonth1": 6
+  },
+  "ProofOfIdentity1": {
+    "17-AADHAR_CARD_NUMBER": "asd",
+    "17-PAN_CARD_NUMBER1": "asd",
+    "firstName1": "asd",
+    "middleName1": "asd",
+    "surname1": "as",
+    "fatherFirstName1": "sad",
+    "fatherMiddleName1": "asd",
+    "fathersurname1": "asd",
+    "17-DATE": "2023-09-05T18:30:00.000Z"
+  },
+  "ResidentialProof1": {
+    "18-RESIDENTIAL_PROOF_NUMBER": "asdf"
+  },
+  "inCaseOfCompanySeekingConversion1": {
+    "numberOfsharesHeld1": "asdf",
+    "paidupvalueofsharesheld1": "asdf"
+  },
+  "monetaryValueOfContributionInFigures1": "asfd",
+  "newKeyFor112": "YES",
+  "newKeyFor113": "YES",
+  "total_Number_Of_Partners": 1,
+  "Number_of_Designated_partners": 1,
+  "individualNotValidDINorDPIN": "1"
+}

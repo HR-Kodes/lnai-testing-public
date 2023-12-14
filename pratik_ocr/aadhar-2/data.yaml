@@ -1,0 +1,18 @@
+names:
+- aadhaar number
+- address
+- dob
+- father
+- gender
+- name
+- photo
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: aadhar-gp4c2
+  url: https://universe.roboflow.com/ocr-ijs1m/aadhar-gp4c2/dataset/2
+  version: 2
+  workspace: ocr-ijs1m
+test: test/images
+train: train/images
+val: valid/images

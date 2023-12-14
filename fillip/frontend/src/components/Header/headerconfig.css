@@ -1,0 +1,11 @@
+.btn-cog:hover{
+    box-shadow: 0 0 5px 0 rgba(255, 255, 255, 0.7);
+    z-index: 1;
+   width: 85px;
+
+    transform: scale(1.1);
+    /* padding: 10px 13px; */
+}
+.btn-cog{
+    width: 85px;
+}

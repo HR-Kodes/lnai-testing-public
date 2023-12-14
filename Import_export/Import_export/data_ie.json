@@ -1,0 +1,251 @@
+{
+    "payload1": {
+        "iecRequestDirectorDetailsDTOs": [],
+        "modifyReqType": "Update PAN Details",
+        "iecRequestGeneralDetailsDTO": {
+            "deficiency": "",
+            "natureOfConcern": {
+                "key": "111000113",
+                "value": "Private Limited"
+            },
+            "entityName": "BB FINERY PRIVATE LIMITED",
+            "panNumber": "AALCB5105H",
+            "nameAsPan": "BB FINERY PRIVATE LIMITED",
+            "birthdate": "12/04/2023",
+            "preferredActivity": {
+                "key": "111000121",
+                "value": "Merchant Exporter"
+            },
+            "sezEntity": "NO",
+            "eouEntity": "NO",
+            "cin": "U82990KA2023PTC172277",
+            "gstin": "",
+            "addMobile": "7050541423",
+            "mobOrEmailModified": "false",
+            "addEmail": "Satvikmishra2615@gmail.com",
+            "otpMobile": "",
+            "otpEmail": "",
+            "pleaseSpecifyNatureOfConcern": "",
+            "pleaseSpecifyPreferred": "",
+            "AttachmentString_generalAttach": "2023/09/01/1693548532247_2480511743773392403.tmp* *Part B statement (2).pdf* *0",
+            "formId": "addForm",
+            "customFunction": "",
+            "attachmentName": "addressAttach",
+            "attachmentComponentHeader_generalAttach": "Remarks",
+            "maxNoOfAttachmentAllowed_generalAttach": "5",
+            "maxFileSizeAllowed_generalAttach": "5",
+            "mandatoryFlag_generalAttach": "Y",
+            "allowedExtensions_generalAttach": "pdf",
+            "prevAttachId_generalAttach": "",
+            "totalFileSize_generalAttach": "0.19",
+            "fileName_generalAttach": "Part B statement (2).pdf",
+            "entityAddress": "BMS COLLEGE OF ENGINEERING",
+            "addressLine2": "BULL TEMPLE ROAD",
+            "pincode": "560004",
+            "city": "BANGALORE",
+            "state": {
+                "key": "29",
+                "value": "KARNATAKA"
+            },
+            "district": {
+                "key": "273",
+                "value": "BENGALURU URBAN"
+            },
+            "dgft": {
+                "key": "11100008",
+                "value": "RA BENGALURU"
+            },
+            "AttachmentString_addressAttach": "2023/09/01/1693548561599_8772271865429898078.tmp* *Part B statement (2).pdf* *0",
+            "attachmentComponentHeader_addressAttach": "Remarks",
+            "maxNoOfAttachmentAllowed_addressAttach": "5",
+            "maxFileSizeAllowed_addressAttach": "5",
+            "mandatoryFlag_addressAttach": "Y",
+            "allowedExtensions_addressAttach": "pdf",
+            "prevAttachId_addressAttach": "",
+            "totalFileSize_addressAttach": "0.19",
+            "fileName_addressAttach": "Part B statement (2).pdf",
+            "sezBranch": "NO",
+            "eouBranch": "NO",
+            "gstinBranch": "",
+            "branchAddressLine1": "",
+            "branchAddressLine2": "",
+            "branchCity": "",
+            "branchPinCode": "",
+            "gstinValidated": "",
+            "iecRequestBranchDetailsDTOs": [
+                {
+                    "sezBranch": "NO",
+                    "eouBranch": "NO",
+                    "branchAddressLine1": "ASDA",
+                    "branchAddressLine2": "ASDA",
+                    "gstinBranch": "",
+                    "branchCity": "ASDA",
+                    "branchDistrict_Value": "BENGALURU URBAN",
+                    "branchDistrict_key": "273",
+                    "branchState_Value": "KARNATAKA",
+                    "branchState_key": "29",
+                    "branchPinCode": "560004",
+                    "branchCode": 1,
+                    "branchStatus": "N",
+                    "branchPkId": 0,
+                    "branchManualEntryRms": "false",
+                    "branchDistrict": {
+                        "key": "273",
+                        "value": "BENGALURU URBAN"
+                    },
+                    "branchState": {
+                        "key": "29",
+                        "value": "KARNATAKA"
+                    },
+                    "siNo": 1
+                }
+            ],
+            "isCINChange": false,
+            "generalDetailsAttachmentDTO": {
+                "s3Path": "2023/09/01/1693548532247_2480511743773392403.tmp* *Part B statement (2).pdf* *0",
+                "attachmentType": {
+                    "key": "10000000",
+                    "value": "IEC General Doc"
+                }
+            },
+            "addressDetailsAttachmentDTO": {
+                "s3Path": "2023/09/01/1693548561599_8772271865429898078.tmp* *Part B statement (2).pdf* *0",
+                "attachmentType": {
+                    "key": "10000001",
+                    "value": "IEC Address Doc"
+                }
+            }
+        },
+        "reqType": "applyForIEC",
+        "deficiencyDto": {
+            "deficiency": "",
+            "appId": "201000001",
+            "req_file_no": ""
+        },
+        "branchIdIncrement": "1",
+        "epcgAuthorisationDetailsVoList": [],
+        "aaAuthorisationDetailsVoList": [],
+        "lifecycleDTOs": [],
+        "dfiaAuthorisationVO": [],
+        "panIecNumber": "",
+        "mobModified": "",
+        "emailModified": ""
+    },
+    "userid": "satvikmishra2615@gmail.com",
+    "password": "Maharajji@66",
+    "generalAttach": "https://legalnitiai.s3.ap-south-1.amazonaws.com/GST-reg/Certificate+of+Incorporation+.pdf",
+    "addressAttach": "https://legalnitiai.s3.ap-south-1.amazonaws.com/GST-reg/Electricity.pdf",
+    "importFile1": "https://legalnitiai.s3.ap-south-1.amazonaws.com/GST-reg/cancelled+cheque.pdf",
+    "iecRequestDirectorDetailsDTOs": [
+        {
+            "ifForeignDirector": "N",
+            "din": "0009730658",
+            "title_Value": "Mr.",
+            "title_key": "111000128",
+            "panDirector": "CIKPK4752M",
+            "passportNumber": "",
+            "birthdateDir": "01/09/1992",
+            "fatherName": "SHYAM BIHARI SINGH",
+            "addressLine1": "GRAM PAWARA POST",
+            "addressLine2": "",
+            "city": "KUSUMHARA",
+            "directorName": "PAWAN KUMAR",
+            "directorNameAsPAN": "PAWAN KUMAR",
+            "directorDistrict_Value": "ROHTAS",
+            "directorDistrict_key": "70",
+            "directorState_Value": "BIHAR",
+            "directorState_key": "10",
+            "directorPin": "802218",
+            "directorMobile": "7991162910",
+            "directorId": "",
+            "directorManualEntryRms": "false",
+            "mcaValidated": "true",
+            "directorDistrict": {
+                "key": "70",
+                "value": "ROHTAS"
+            },
+            "directorState": {
+                "key": "10",
+                "value": "BIHAR"
+            },
+            "title": {
+                "key": "111000128",
+                "value": "Mr."
+            }
+        },
+        {
+            "ifForeignDirector": "N",
+            "din": "0010113480",
+            "title_Value": "Ms.",
+            "title_key": "111000127",
+            "panDirector": "NNKPS1275K",
+            "passportNumber": "",
+            "birthdateDir": "11/10/2000",
+            "fatherName": "SUNIL KUMAR SINGH",
+            "addressLine1": "GITA APARTMENTS HOUSE NO 32",
+            "addressLine2": "",
+            "city": "PATLIPUTRA",
+            "directorName": "AAYUSHI SINGH",
+            "directorNameAsPAN": "AAYUSHI SINGH",
+            "directorDistrict_Value": "PATNA",
+            "directorDistrict_key": "73",
+            "directorState_Value": "BIHAR",
+            "directorState_key": "10",
+            "directorPin": "800013",
+            "directorMobile": "8102014565",
+            "directorId": "",
+            "directorManualEntryRms": "false",
+            "mcaValidated": "true",
+            "directorDistrict": {
+                "key": "73",
+                "value": "PATNA"
+            },
+            "directorState": {
+                "key": "10",
+                "value": "BIHAR"
+            },
+            "title": {
+                "key": "111000127",
+                "value": "Ms."
+            }
+        }
+    ],
+    "bankDetailsDTOs":[{"accNumber": "10107749364",
+    "accHolder": "BB FINERY",
+    "ifsCode": "IDFB0080176",
+    "bankNameKeyValueDto": {"key": "0", "value": "IDFC BANK"},
+    "bankNameKeyValueDto_Value": "IDFC BANK",
+    "bankNameKeyValueDto_key": "0",
+    "pfmsValidated": 0,
+    "branchAddress": "Cunningham",
+    "pfmsStatus": "Not Initiated",
+    "isPrimary": "YES",
+    "bankAttachmentDTO": {"s3Path": "",
+     "fileName": "",
+     "attachmentType": {"key": 10000002, "value": "IEC Bank DOC"}},
+    "bankPkId": 0,
+    "bankName": "IDFC BANK"}],
+    "iecRequestOtherDetailsDTO":{"importList": [{"key": "111000130", "value": "Chemicals or Allied Products"},
+    {"key": "111000809", "value": "Arms & ammunition"}],
+   "importServicesList": [{"key": "111000600",
+     "value": "Information Technology (IT & ITES) Services"}],
+   "exportList": [{"key": "111000148", "value": "Chemicals or Allied Products"}],
+   "exportServicesList": [{"key": "111000724",
+     "value": "Wholesale trade services"},
+    {"key": "111000725", "value": "Other Services"}],
+   "exportServices": {"key": "111000146", "value": "Services"},
+   "exportGoodsOtherSpecify": "",
+   "exportGoodsOther": false,
+   "importGoodsOtherSpecify": "asdasda",
+   "importGoodsOther": true,
+   "please_specify": "",
+   "isImport": true,
+   "isExport": true,
+   "isOther": false,
+   "isGoods": true,
+   "isServices": true,
+   "importGoods": true,
+   "importServices": true},
+   "place":"BANGALORE"
+  
+}

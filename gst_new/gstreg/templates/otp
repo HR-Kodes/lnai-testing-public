@@ -1,0 +1,16 @@
+<!-- gst_registration/templates/registration_form.html -->
+
+<html>
+<body>
+    <form method="post" action="{% url 'registration_process' %}">
+        <!-- Display your form fields -->
+        <label for="captcha">Enter mobile otp:</label>
+        <input type="text" name="mb_otp" required>
+        <br>
+        <label for="otp">Enter email OTP:</label>
+        <input type="text" name="em_otp" required>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

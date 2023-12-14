@@ -1,0 +1,79 @@
+{
+  "isRegistered": "YES",
+  "srn": "M28186110",
+  "registeredAddress": {
+    "pin": "560019",
+    "3-3-1": [
+      "Gaviopuram Extension"
+    ],
+    "city": "Bangalore South",
+    "District": "Bangalore",
+    "state": "Karnataka",
+    "country": "India",
+    "addressI": "BMS College ofEngineering",
+    "addressII": "Bull Temple Road",
+    "area": "Gaviopuram Extension",
+    "mobile": "6200104066"
+  },
+  "contactDetails": {
+    "phone": "SACHIN ",
+    "mobile": "MADHESIYA",
+    "fax": "9319421653",
+    "email": "Sachuuuu1428@gmail.com",
+    "company": "VOYAGENIC LLP"
+  },
+  "3eAdressProofURL": "sachin_aadhar_merged (1).pdf",
+  "3eUtilityBillsURL": "Jay_Bank (1).pdf",
+  "BasicdetailsofDesignatedpartner1": {
+    "placeOfBirthState1": "Uttar Pradesh",
+    "placeOfBirthDistrict1": "Agra",
+    "mobileNo1": "9319421653",
+    "emailid1": "Sachuuuu1428@gmail.com"
+  },
+  "occupationType1": "Private Employment",
+  "educationalQualification1": "Bachelor's degree",
+  "Permanentaddress1": {
+    "addressI1": "ward no 9 gandhi nagar",
+    "addressII1": "hariharapura",
+    "pin1": "272164",
+    "area1": "Hariharpur",
+    "city1": "Dhanghata",
+    "district1": "Sant Kabir Nagar",
+    "state1": "Uttar Pradesh",
+    "country1": "India",
+    "phone1": "05542282600"
+  },
+  "Durationofstayatpresentaddress1": {
+    "durationStayedAtPresentAddressYears1": 14,
+    "durationStayedAtPresentAddressMonth1": 5
+  },
+  "ProofOfIdentity1": {
+    "17-AADHAR_CARD_UPLOAD": "Jay_Bank (1).pdf",
+    "17-AADHAR_CARD_NUMBER": "798000043919",
+    "17-PAN_CARD_UPLOAD": "Jay_aadhar_PAN-Jay_merged (1).pdf",
+    "17-PAN_CARD_NUMBER1": "HQRPM8960H",
+    "firstName1": "SACHIN",
+    "surname1": "MADHESIYA",
+    "fatherFirstName1": "RAJU",
+    "fatherMiddleName1": "PRASAD",
+    "fathersurname1": "MADHESIYA",
+    "17-DATE": "2023-09-27"
+  },
+  "ResidentialProof1": {
+    "18-RESIDENTIAL_PROOF_OPTION": "Electricity Bill",
+    "18-RESIDENTIAL_PROOF_UPLOAD_LINK": "Jay_Bank (1).pdf",
+    "18-RESIDENTIAL_PROOF_NUMBER": "7324123775"
+  },
+  "formOfContribution1": "Other than cash",
+  "monetaryValueOfContributionInFigures1": "50000",
+  "newKeyFor112": "YES",
+  "newKeyFor113": "YES",
+  "designatedpartnerID1": "09730656",
+  "total_Number_Of_Partners": 2,
+  "Number_of_Designated_partners": 2,
+  "selected_no_of_partners": 0,
+  "individualNotValidDINorDPIN": "2",
+  "Other": {
+    "Other-20": "CHEQUE"
+  }
+}

@@ -1,0 +1,248 @@
+{
+    "spiceBpartaddress": [
+        {
+            "line1": " the Principal,BMS ",
+            "line2": "College of Engg",
+            "pincode": "560019",
+            "addressType": "Correspondance Address",
+            "coutry": "India",
+            "area": "Gaviopuram Extension",
+            "city": "Bangalore South",
+            "district": "Bangalore",
+            "state_ut": "Karnataka",
+            "mobile": "9481829401",
+            "companymailid": "kashvijain19@gmail.com"
+        }
+    ],
+    "corresaddressameasregaddress": "Y" ,
+    "lat": "12.9680",
+    "long": "77.5305",
+    "roc": "Registrar of Companies, Karnataka",
+    "formIntId": "1-4IF12OS",
+    "refNo": "1-9431091455",
+    "IntId": "1-4PZC9ZF",
+    "userId": "CASRIKANTH0224@GMAIL.COM",
+    "pan": "DLQPR2890H",
+    "Dir_w_din_count": "0",
+    "Dir_wt_din_count": "2",
+    "Dir_w_DIN": [
+        {
+            "SubscriberType": "Subscriber CUM Director DIN",
+            "din": "08553753",
+            "name": "",
+            "nationality": "",
+            "firstName": "",
+            "middleName": "",
+            "category": "Individual First subscribers cum Directors",
+            "Surname": "",
+            "designation": "Director",
+            "directorCategory": "Promoter",
+            "whetherNonED": "Executive director",
+            "emailid": "",
+            "totalSubscribedShareCapital": "30000",
+            "equitynumofclasses": "1",
+            "DirectorInterestedEntitiescount": "0",
+            "SpicePartBSubsDeclaration": [],
+            "inc9DeclarationFlag1": "N",
+            "SpicePartBSubscribersShares": [
+                {
+                    "sharecategory": "Equity Share",
+                    "classShare": "1",
+                    "subscribedcapitalsharenumber": "3000",
+                    "subscribedcapitalnominalamountpershare": "10",
+                    "subscribedcapitaltotalamount": "30000"
+                }
+            ],
+            "pan": "",
+            "identityProofNumber": ""
+        }
+    ],
+    "Dir_wt_DIN1": [
+        {
+            "SubscriberType": "Subscriber CUM Director No DIN",
+            "category": "Individual First subscribers cum Directors",
+            "firstName": "Kashvi",
+            "MiddleName": "Dileep",
+            "Surname": "Jain",
+            "fatherFirstName": "Dileep",
+            "fatherMiddleName": "",
+            "fatherSurName": "Jain",
+            "gender": "Female",
+            "dateOfBirth": "10/19/2000",
+            "nationality": "India",
+            "placeofBirth": "Bangalore",
+            "citizenOfIndia": "Y",
+            "residentOfIndia": "Y",
+            "occupationType": "Professional",
+            "areaofOccupation": "Professional",
+            "educationalQualificationothers": "Bachelor's degree",
+            "pan": "BUTPJ7345F",
+            "designation": "Director",
+            "directorCategory": "Promoter",
+            "whetherNonED": "Executive director",
+            "MobileNo": "9481829401",
+            "emailid": "kashvijain19@gmail.com",
+            "ResidenseCorespondenceFlag": "Y",
+            "identityProofDocument": "Aadhar Card",
+            "identityProofNumber": "935902622081",
+            "residentialProofDocument": "Bank Statement",
+            "residentialProofNumber": "90656545143",
+            "Attachment1": {
+                "fileAttachment": "BUTPJ7345F_Kashvi_Aadhar.jpg"
+            },
+            "Attachment2": {
+                "fileAttachment": "BUTPJ7345F_Kashvi_address_proof.jpg"
+            },
+            "totalSubscribedShareCapital": "",
+            "equitynumofclasses": "1",
+            "DirectorInterestedEntitiescount": "0",
+            "SpicePartBSubsDeclaration": [],
+            "inc9DeclarationFlag1": "N",
+            "din": "",
+            "SpicePartBSubscribersShares": [
+                {
+                    "sharecategory": "Equity Share",
+                    "classShare": "1",
+                    "subscribedcapitalsharenumber": "5000",
+                    "subscribedcapitalnominalamountpershare": "10",
+                    "subscribedcapitaltotalamount": "50000"
+                }
+            ],
+            "SpicePartBSubscribersAddress": [
+                {
+                    "addressType": "Permanent Address",
+                    "line1": "Chandra Vilasa 2nd Floor",
+                    "line2": "Chandra Shekar Layout",
+                    "country": "India",
+                    "pincode": "560004",
+                    "area": "Basavanagudi",
+                    "city": "Bangalore",
+                    "district": "Bangalore",
+                    "state_ut": "Karnataka"
+                },
+                {
+                    "addressType": "Present Address",
+                    "line1": "Chandra Vilasa 2nd Floor",
+                    "line2": "Chandra Shekar Layout",
+                    "country": "India",
+                    "pincode": "560004",
+                    "area": "Basavanagudi",
+                    "city": "Bangalore",
+                    "district": "Bangalore",
+                    "state_ut": "Karnataka",
+                    "yearresidenseduration": "22",
+                    "monthresidenseduration": "7"
+                }
+            ]
+        },
+        {
+            "SubscriberType": "Subscriber CUM Director No DIN",
+            "category": "Individual First subscribers cum Directors",
+            "firstName": "BIPUL",
+            "MiddleName": "KUMAR",
+            "Surname": "SINGH",
+            "fatherFirstName": "CHANDRADEEP",
+            "fatherMiddleName": "",
+            "fatherSurName": "SINGH",
+            "gender": "Male",
+            "dateOfBirth": "09/18/2002",
+            "nationality": "India",
+            "placeofBirth": "GAYA",
+            "citizenOfIndia": "Y",
+            "residentOfIndia": "Y",
+            "occupationType": "Professional",
+            "areaofOccupation": "Professional",
+            "educationalQualificationothers": "Bachelor's degree",
+            "pan": "NLRPS2411C",
+            "designation": "Director",
+            "directorCategory": "Promoter",
+            "whetherNonED": "Executive director",
+            "MobileNo": "7975735563",
+            "emailid": "bipulkumarsingh6690@gmail.com",
+            "ResidenseCorespondenceFlag": "Y",
+            "identityProofDocument": "Aadhar Card",
+            "identityProofNumber": "249166905418",
+            "residentialProofDocument": "Bank Statement",
+            "residentialProofNumber": "90656545143",
+            "Attachment1": {
+                "fileAttachment": "NLRPS2411C_Bipul_Aadhar.jpg"
+            },
+            "Attachment2": {
+                "fileAttachment": "NLRPS2411C_Bipul_address_proof.jpg"
+            },
+            "totalSubscribedShareCapital": "",
+            "equitynumofclasses": "1",
+            "DirectorInterestedEntitiescount": "0",
+            "SpicePartBSubsDeclaration": [],
+            "inc9DeclarationFlag1": "N",
+            "din": "",
+            "SpicePartBSubscribersShares": [
+                {
+                    "sharecategory": "Equity Share",
+                    "classShare": "1",
+                    "subscribedcapitalsharenumber": "5000",
+                    "subscribedcapitalnominalamountpershare": "10",
+                    "subscribedcapitaltotalamount": "50000"
+                }
+            ],
+            "SpicePartBSubscribersAddress": [
+                {
+                    "addressType": "Permanent Address",
+                    "line1": "Post-goga gram",
+                    "line2": "mobarakchak wazirganj",
+                    "country": "India",
+                    "pincode": "805131",
+                    "area": "Gaya",
+                    "city": "Nawada",
+                    "district": "Nawada",
+                    "state_ut": "Bihar"
+                },
+                {
+                    "addressType": "Present Address",
+                    "line1": "Post-goga gram",
+                    "line2": "mobarakchak wazirganj",
+                    "country": "India",
+                    "pincode": "805131",
+                    "area": "Gaya",
+                    "city": "Nawada",
+                    "district": "Nawada",
+                    "state_ut": "Bihar",
+                    "yearresidenseduration": "19",
+                    "monthresidenseduration": "7"
+                }
+            ]
+        }
+    ],
+        "Dir_wt_DIN": [
+        {
+            "pan_data_": {
+                "pan": "BUTPJ7345F",
+                "fName": "Kashvi",
+                "midName": "Dileep",
+                "surName": "Jain",
+                "dob": "19/10/2000",
+                "fullName": "KASHVIDILEEPJAIN"
+            }
+        },{
+        "pan_data_": {
+            "pan": "NLRPS2411C",
+            "fName": "Bipul",
+            "midName": "Kumar",
+            "surName": "Singh",
+            "dob": "18/09/2002",
+            "fullName": "KASHVIDILEEPJAIN"
+        }}
+    ],
+    "SpicePartBshares": [
+        {
+            "classShare": "1",
+            "authorizedcapitalsharenumber": "10000",
+            "subscribedcapitalsharenumber": "10000",
+            "authorizedcapitalnominalamountpershare": "10",
+            "subscribedcapitalnominalamountpershare": "10",
+            "authorizedcapitaltotalamount": "100000",
+            "subscribedcapitaltotalamount": "100000",
+            "sharecategory": "Equity Share"
+        }
+    ]
+}

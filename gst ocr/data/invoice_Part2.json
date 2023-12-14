@@ -1,0 +1,20 @@
+{
+  "AmountDue": "0.00",
+  "DueDate": "16/01/2023",
+  "InvoiceDate": "16/01/2023",
+  "InvoiceTotal": "4,480.00",
+  "IGST": null,
+  "CGST2.5": null,
+  "CGST0": null,
+  "CGST9": null,
+  "BillingAddress": null,
+  "VendorAddress": null,
+  "SGST14": null,
+  "SGST9": null,
+  "TotalDiscount": null,
+  "OTHER CHARGE": null,
+  "SGST2.5": null,
+  "CGST14": null,
+  "SGST0": null,
+  "VendorAddressRecipient": null
+}

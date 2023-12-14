@@ -1,0 +1,313 @@
+
+.gst-box {
+  /* background-color: rgba(246, 250, 253, 0.8); */
+  /* display: flex;
+  justify-content: center; */
+  align-items: center;
+  /* height: 1000px; */
+  padding-top: 50px;
+}
+
+.gst-box .gst-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 3rem;
+}
+.gst-box .left-side {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+}
+.gst-heading {
+  text-align: center;
+  font-weight: 700;
+  font-size: 60.6619px;
+  line-height: 49px;
+  color: #080b1a;
+  font-family: Roboto;
+  margin-bottom: 100px;
+}
+.left-side .para1 {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  color: #231f20;
+  font-family: Roboto;
+  margin-bottom: 10px;
+}
+.left-side .para2 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #606162;
+  font-family: Roboto;
+  margin-bottom: 14px;
+}
+.radio-buttons {
+  margin-top: 20px;
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 30px;
+  font-family: Roboto;
+}
+
+.radio-buttons  {
+  display: flex;
+  justify-content: center;
+  /* margin-right: 64px; */
+width: auto;
+  font-family: Roboto;
+  margin-bottom: 0;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #606162;
+}
+.radio-11,
+.radio-12 {
+  padding: 15px 25px;
+ border: unset;
+ border-radius: 15px;
+ color: #212121;
+ z-index: 1;
+ background: #e8e8e8;
+ position: relative;
+ font-weight: 1000;
+ font-size: 17px;
+ -webkit-box-shadow: 4px 8px 19px -3px rgba(0,0,0,0.27);
+ box-shadow: 4px 8px 19px -3px rgba(0,0,0,0.27);
+ transition: all 250ms;
+ overflow: hidden;
+  font-family: Roboto;
+}
+.radio-buttons .label {
+  margin-bottom: 0;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #606162;
+  font-family: Roboto;
+}
+.given-input {
+  position: relative;
+  margin-bottom: 28px;
+}
+.given-input > label {
+  margin-bottom: 12px;
+  display: block;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #333333;
+  font-family: Roboto;
+}
+.user-input-rs > input {
+  padding: 26px;
+  width: 100%;
+  height: 52px;
+  border: 1px solid #caced1;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #231f20;
+  font-family: Roboto;
+}
+.user-input-rs {
+  position: relative;
+  align-items: center;
+}
+.user-input-rs > select {
+  width: 100px;
+}
+.user-input-rs .ruppes-symbol {
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-weight: 700;
+  font-size: 20px;
+  color: #231f20;
+}
+.user-input-rs input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+  transition: border-color 0.3s ease;
+}
+.user-input-rs input:focus {
+  outline: none;
+  border-color: #333333;
+}
+/* Add hover effect to the input container */
+.given-input:hover .user-input-rs input {
+  border-color: #333333;
+}
+
+.given-input:hover .ruppes-symbol {
+  color: #333333;
+}
+.gst-values > select {
+  padding: 26px;
+  width: 100%;
+  height: 52px;
+  border: 1px solid #caced1;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #231f20;
+  font-family: Roboto;
+}
+.gst-values > option {
+  color: #231f20;
+}
+.gst-container .right-side {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  max-width: 585px;
+  width: 100%;
+}
+.gst-container .right-side .right-container {
+  margin-bottom: 35px;
+  padding: 0 16px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  box-shadow: 0 4px 20px rgba(193, 204, 210, 0.25);
+}
+.gst-container .right-side .right-container .selling-cost {
+  border-bottom: 1px solid #caced1;
+  padding: 24px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.gst-container .right-side .right-container .selling-cost > p:nth-child(1) {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 27px;
+  color: #231f20;
+  font-family: Roboto;
+}
+
+.gst-container .right-side .right-container .selling-cost > p:nth-child(2) {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+  color: #000;
+}
+.gst-container .right-side .right-container .total-gst {
+  border-bottom: 1px solid #caced1;
+  padding: 24px 0 0 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.gst-container .right-side .right-container .total-gst > p:nth-child(1) {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 27px;
+  color: #231f20;
+  font-family: Roboto;
+}
+.gst-container .right-side .right-container .total-gst > p:nth-child(2) {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+  color: #000;
+}
+.gst-container .right-side .right-container .total-profit {
+  padding: 24px 0 0 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.gst-container .right-side .right-container .total-profit > p:nth-child(1) {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 27px;
+  color: #231f20;
+  font-family: Roboto;
+}
+.gst-container .right-side .right-container .total-profit > p:nth-child(2) {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+  color: #000;
+}
+
+/* Styles for the dropdown container */
+.user-input-rs {
+  position: relative;
+}
+
+/* Style the dropdown select element */
+.user-input-rs select {
+  appearance: none;
+  background-color: #f3eeee;
+  color: #333333;
+  padding: 10px;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.user-input-rs select:hover {
+  background-color: #ebe6e6;
+}
+
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .gst-container {
+    margin: auto;
+    width: 100%;
+    /* max-width: 100%; */
+    padding: 0;
+    max-width: 600px;
+  }
+  .left-side{
+    min-width: 585px;
+    /* color:red; */
+  /* background-color: red; */
+  }
+  .left-side .para1
+  {
+font-size: 23px;
+  }
+.left-side .para2
+{
+  font-size: 32px;
+}
+}
+
+@media (max-width: 600px) {
+  .gst-box {
+      width: 100%;
+  }
+.left-side{
+  min-width: 75vw;
+  
+
+}
+  .radio-buttons{
+    display: flex;
+    flex-direction: column;
+  }
+  .gst-heading{
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    /* line-height: 49px; */
+    color: #080b1a;
+    font-family: Roboto;
+    margin-bottom: 50px;
+  }
+}

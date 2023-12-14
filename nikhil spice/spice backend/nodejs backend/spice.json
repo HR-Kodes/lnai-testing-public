@@ -1,0 +1,75 @@
+{
+    "spiceBpartaddress": {
+        "line1": "C/O Shobha H 33  1st MAIN",
+        "line2": "MARENAHALLI",
+        "pincode": "560040",
+        "addressType": "Correspondance Address",
+        "coutry": "India",
+        "area": "",
+        "city": "",
+        "district": "",
+        "state_ut": "",
+        "mobile": "7975735563",
+        "companymailid": "ranumahimewada@gmail.com",
+        "lat":"",
+        "long":""
+    },
+    "formIntId": "1-4IF12OS",
+    "refNo": "1-9431091455",
+    "IntId": "1-4BZ10QN",
+    "userId": "CASRIKANTH0224@GMAIL.COM",
+    "pan": "DLQPR2890H",
+    "Dir_w_DIN": {
+        "din": "08092541",
+        "designation": "Director",
+        "category": "Promoter",
+        "chairman": "",
+        "director": "Executive director",
+        "Number of equity shares": "5000"
+    },
+    "Dir_wt_DIN": {
+        "pan_data_": {
+            "pan": "COFPM2679A",
+            "fName": "RANU",
+            "midName": "",
+            "surName": "MEWADA",
+            "dob": "14/11/1990",
+            "fullName": "RANUMEWADA"
+        },
+        "fathers_first_name": "Karan",
+        "fathers_middle_name": "Singh",
+        "fathers_surname": "Mewada",
+        "gender": "Female",
+        "Nationality": "Indian",
+        "Place_of_Birth": "Bangalore",
+        "Occupation_type": "Private Employment",
+        "Educational_qualification": "Master degree",
+        "designation": "Director",
+        "category": "Promoter",
+        "director": "Executive Director",
+        "chairman": "",
+        "Mobile_no": "7975735563",
+        "email": "ranumahimewada@gmail.com",
+        "Number of equity shares": "5000",
+        "permanent_add": {
+            "line1": "asdsd",
+            "line2": "asdda",
+            "country": "India",
+            "pincode": "560040"
+        },
+        "present_add": {
+            "line1": "ads",
+            "line2": "ads",
+            "country": "India",
+            "pincode": "560040",
+            "duration_of_stay_years": "4",
+            "duration_of_stay_months": "0"
+        },
+        "id_proof_type": "Aadhar Card",
+        "id_proof_no": "773418462481",
+        "residential_proof_type": "Bank Statement",
+        "residential_proof_number": "188089555",
+        "proof_of_identity": "",
+        "proof_of_address": ""
+    }
+}

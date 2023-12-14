@@ -1,0 +1,220 @@
+{
+    "aplCd": "48951848",
+    "rgdtls": {
+        "aplst": "DFT",
+        "aplty": "APLRG",
+        "duedt": "23/09/2023",
+        "moddt": "08/09/2023",
+        "mbno": "9481829401",
+        "em": "kashvijain19@gmail.com"
+    },
+    "bzdtls": {
+        "bzdtlsbz": {
+            "addltrdnms": [],
+            "regCategory": [],
+            "rslibrg": "DSEP",
+            "iscasdl": "N",
+            "isopcmp": "N",
+            "lgnmbzpan": "KASHVI DILEEP  JAIN",
+            "pan": {
+                "num": "BUTPJ7345F",
+                "iv": "V",
+                "panDate": "Pan date not available"
+            },
+            "stcd": "29",
+            "dst": "KABNU",
+            "trdnm": "highheelsnthreads",
+            "cobz": "PRO",
+            "cmbzdt": "08/09/2023",
+            "librgdt": "08/09/2023",
+            "otherRsLib": "",
+            "sezDtls": {}
+        },
+        "exrgdtls": []
+    },
+    "decdtls": {
+        "dt": "08/09/2023"
+    },
+    "secToken": "292300186862TRN",
+    "map": {
+        "opdtls": [{
+            "eid": 1,
+            "lt": "12.951735",
+            "lg": "77.568406",
+            "eloc": "E71XNI",
+            "city": "Bengaluru",
+            "geoCodeLevel": "Building",
+            "nrbyLdMrk": null,
+            "locSubloc": "Sankarapuram",
+            "feedback": {
+                "locSubloc": true,
+                "st": true,
+                "bnm": true,
+                "bno": true,
+                "nrbyLdMrk": false
+            }
+        }],
+        "asgdtls": [{
+            "eid": 2,
+            "lt": "12.951735",
+            "lg": "77.568406",
+            "eloc": "E71XNI",
+            "city": "Bengaluru",
+            "geoCodeLevel": "Building",
+            "nrbyLdMrk": null,
+            "locSubloc": "Sankarapuram",
+            "feedback": {
+                "locSubloc": false,
+                "st": false,
+                "bnm": false,
+                "bno": false,
+                "nrbyLdMrk": false
+            }
+        }],
+        "ppbzdtls": {
+            "lt": "12.946982",
+            "lg": "77.5771940000001",
+            "eloc": "CX6X0C",
+            "city": "Bengaluru",
+            "geoCodeLevel": "Building",
+            "nrbyLdMrk": "Near jain bakes",
+            "locSubloc": "Basavanagudi",
+            "feedback": {
+                "locSubloc": true,
+                "st": true,
+                "bnm": false,
+                "bno": true,
+                "nrbyLdMrk": false
+            }
+        }
+    },
+    "opdtls": [{
+        "iscitind": "Y",
+        "isNewSignatoryDetailsAfterSCN": false,
+        "fn": "KASHVI",
+        "mn": "DILEEP",
+        "ln": "  JAIN",
+        "pan": {
+            "num": "BUTPJ7345F"
+        },
+        "rsad": {
+            "cnty": "IND",
+            "pncd": "560004",
+            "dst": "KABNU",
+            "loc": "Bengaluru",
+            "stcd": "29",
+            "st": "Chandra Shekhar Layout Road",
+            "bnm": "8/26",
+            "bno": "8/26",
+            "flno": "2nd Floor"
+        },
+        "isasg": "Y",
+        "fhfn": "DILEEP",
+        "fhmn": "KUMAR",
+        "fhln": "JAIN",
+        "dob": "19/10/2000",
+        "mbno": "9481829401",
+        "em": "kashvijain19@gmail.com",
+        "gd": "F",
+        "dg": "SOLE PROPRIETOR",
+        "dcupdtls": [{
+            "id": 107025908,
+            "ty": "PHOT",
+            "ct": "image/jpeg",
+            "hash": "ccb45941ebdce11e6d5ef25b23c247d21551be69a658f271ce7f1013fde56616"
+        }],
+        "eid": 1
+    }],
+    "asgdtls": [{
+        "iscitind": "Y",
+        "isNewSignatoryDetailsAfterSCN": false,
+        "fn": "KASHVI",
+        "mn": "DILEEP",
+        "ln": "  JAIN",
+        "pan": {
+            "num": "BUTPJ7345F"
+        },
+        "rsad": {
+            "cnty": "IND",
+            "pncd": "560004",
+            "dst": "KABNU",
+            "loc": "Bengaluru",
+            "stcd": "29",
+            "st": "Chandra Shekhar Layout Road",
+            "bnm": "8/26",
+            "bno": "8/26",
+            "flno": "2nd Floor"
+        },
+        "isasg": "Y",
+        "fhfn": "DILEEP",
+        "fhmn": "KUMAR",
+        "fhln": "JAIN",
+        "dob": "19/10/2000",
+        "mbno": "9481829401",
+        "em": "kashvijain19@gmail.com",
+        "gd": "F",
+        "dg": "SOLE PROPRIETOR",
+        "dcupdtls": [{
+            "id": 107025908,
+            "ty": "PHOT",
+            "ct": "image/jpeg",
+            "hash": "ccb45941ebdce11e6d5ef25b23c247d21551be69a658f271ce7f1013fde56616"
+        }],
+        "eid": 2,
+        "ispas": "Y",
+        "aadhaarflag": "Y"
+    }],
+    "ppbzdtls": {
+        "add": {
+            "stcd": "29",
+            "pncd": "560004",
+            "dst": "KABNU",
+            "loc": "Bengaluru",
+            "lg": "77.5771940000001",
+            "lt": "12.946982",
+            "st": "Chandra Shekhar Layout Road",
+            "bnm": "symbiosis padaki",
+            "bno": "14/1",
+            "flno": "5FC"
+        },
+        "ntbz": ["RBU"],
+        "contdtls": {
+            "em": "kashvijain19@gmail.com",
+            "mbno": "9481829401"
+        },
+        "hasaddl": "N",
+        "sj": {
+            "stjd": " LOCAL GST Office",
+            "stjdno": "KA024"
+        },
+        "cj": {
+            "comrtcd": "YV",
+            "divsncd": "YV03",
+            "rangecd": "YV0302"
+        },
+        "psnt": "CON",
+        "dcupdtls": [{
+            "id": "2023092940774",
+            "ty": "CNLR",
+            "ct": "application/pdf",
+            "docName": "noc.pdf",
+            "hash": "0c019b397837dee21ca7d579ffe1751bd95e47390bee2c008d6d0c32aab8eccd"
+        }, {
+            "id": "2023092940776",
+            "ty": "ELCB",
+            "ct": "image/jpeg",
+            "docName": "WhatsApp_Image_2023_08_31_at_1.52.20_PM (1).jpeg",
+            "hash": "7167284b4987aaa4cf9a3f53c8bcf7723ad8bc0a4b04950710cf4deff688647a"
+        }]
+    },
+    "gdssvcdtls": {
+        "bzgddtls": [{
+            "gdes": "Articles of apparel and clothing accessories",
+            "hsncd": "430310",
+            "eid": 3
+        }],
+        "bzsdtls": []
+    },
+    "stsidtls": {},
+    "adhrflag": "Y"
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "quote": "Legalniti is a true industry leader when it comes to AI-powered legal compliance. Their platform has transformed the way we handle complex legal requirements, making our processes more efficient and accurate.",
+    "author": "Rana Vivek Singh",
+    "authorThumb": "testimonial/VIVEK.jpg",
+    "designation": "CEO, Bigbuddy"
+  },
+  {
+    "id": 2,
+    "quote": "Choosing Legalniti was one of the best decisions we made for our legal compliance needs. Their cutting-edge AI technology simplifies complex processes",
+    "author": "Pawan Kumar",
+    "authorThumb": "testimonial/Pawan.jpg",
+    "designation": "COO, Bigbuddy"
+  },
+  {
+    "id": 3,
+    "quote": "Their AI-powered platform revolutionizes the way we handle legal matters, saving us time, effort, and resources. It's like having a team of legal experts at our fingertips",
+    "author": "Aayushi Singh",
+    "authorThumb": "testimonial/aayushi.jpg",
+    "designation": "CEO,Hattyhood"
+  }
+]

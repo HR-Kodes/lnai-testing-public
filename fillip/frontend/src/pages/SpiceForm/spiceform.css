@@ -1,0 +1,168 @@
+.heading-spice-form {
+    text-align: center;
+    color: #080b1a;
+}
+
+.App {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+    margin-top: 2rem;
+}
+
+.spice-button {
+    padding: 17px 40px;
+    border-radius: 50px;
+    border: 0;
+    background-color: white;
+    box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-size: 15px;
+    transition: all .5s ease;
+}
+
+.spice-button:hover {
+    letter-spacing: 3px;
+    background-color: #080B1A;
+    color: hsl(0, 0%, 100%);
+    box-shadow: #080B1A 0px 0px 0px 0px;
+}
+
+.spice-button:active {
+    letter-spacing: 3px;
+    background-color: #080B1A;
+    color: hsl(0, 0%, 100%);
+    box-shadow: #080B1A 0px 0px 0px 0px;
+    transform: translateY(10px);
+    transition: 100ms;
+}
+
+.full-width-input {
+    width: 300px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s ease;
+    margin-left: 3px;
+
+}
+
+.full-width-input:focus {
+    border-color: #080b1a;
+    box-shadow: 0 0 8px rgba(8, 11, 26, 0.3);
+}
+
+.button-container {
+    margin-bottom: 25px;
+}
+
+.more-info-icon {
+    margin-left: 3px;
+}
+
+.radio-container {
+    margin: 0 auto;
+    max-width: 300px;
+    margin-left: 0%;
+}
+
+.radio-wrapper {
+    margin-bottom: 20px;
+}
+
+.radio-button {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.radio-button:hover {
+    transform: translateY(-2px);
+}
+
+.radio-button input[type="radio"] {
+    display: none;
+}
+
+.radio-checkmark {
+    display: inline-block;
+    position: relative;
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+    border: 2px solid #333;
+    border-radius: 50%;
+}
+
+.radio-checkmark:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #333;
+    transition: all 0.2s ease-in-out;
+}
+
+.radio-button input[type="radio"]:checked~.radio-checkmark:before {
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.radio-label {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.file-input::file-selector-button {
+    background-color: #656877;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.file-input::file-selector-button:hover {
+    background-color: #080B1A;
+}
+
+.question-box {
+    margin-top: -50px;
+}
+
+.answer-box {
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.description-box {
+    position: relative;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.description-tooltip {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 200px;
+    padding: 10px;
+    background-color: #080B1A;
+    color: #f5e2e2;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    font-size: 14px;
+    line-height: 1.4;
+    z-index: 1;
+    width: 300px;
+}

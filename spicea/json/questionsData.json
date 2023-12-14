@@ -1,0 +1,884 @@
+[
+    {
+      "id": 1,
+      "info": "Can you think of a really cool name for your new company to incorporate? Write it down and also think of two or three other names you like. Example: 1. Godaddy Private Limited 2. Namcheap Private Limited",
+      "label": "Write the name in order of priority on the basis of which the company will get incorporated?",
+      "category": "text",
+      "classes": "Company_name"
+    },
+
+    {
+      "id": 2,
+      "info": "Only a short mentioning of the main products/services/activity of the business is required.Normally it has to have 5 to 8 points mentioning the business activities relating to a single industry. EXAMPLE OF MAIN OBJECTS:IT Industry: Software development, IT enabled services, Computer sales, BPO, digitalmarketing, e-commerce, web designing, IT consulting etc.Textile Industry: Manufacturing and trading of cloth, fashion designing, tailoring, apparels,leather products, dyeing.",
+      "label": "What would be the main activity of the company?",
+      "category": "text",
+      "classes": "Description"
+    },
+
+    {
+      "id": 3,
+      "info": "",
+      "label": "Please mention the address where the company would be registered?",
+      "category": "address",
+      "options": [
+        "Line 1",
+        "Line 2",
+        "Pin code",
+        "arealocality",
+        "City",
+        "District",
+        "State",
+        "Country",
+        "Phone(with STD/ISD code)"
+      ],
+      "classes": "spiceBpartaddress"
+    },
+
+    {
+      "id": 4,
+      "info": "Electricity bill/ Gas bill (NOT OLDER THAN 2 MONTHS) / Municipal Tax Receipt paid (ALL DOCUMENTS SHOULD BE IN THE NAME OF THE OWNER OF THE PROPERTY WHERE THE COMPANY IS GOING TO BE REGISTERTED)",
+      "label": "Address proof of where the company is going to be registered",
+      "category": "file",
+      "classes": "company_address_proof"
+    },
+
+    {
+      "id": 5,
+      "info": "",
+      "label": "The address mentioned above is:",
+      "category": "radio",
+      "options": [
+        "Owned",
+        "Rented",
+        "Held By Consent"
+      ],
+      "classes": "address_ownership"
+    },
+
+    {
+      "id": 6,
+      "info": "",
+      "label": "What is the name of the owner of the property mentioned above?",
+      "category": "text",
+      "classes": "owner_name"
+    },
+
+    {
+      "id": 7,
+      "info": "",
+      "label": "Number of Classes of Equity Share Capital",
+      "category": "table",
+      "classes": "Classes_Equity_Share"
+    },
+
+    {
+      "id": 8,
+      "info": "",
+      "label": "Number of Classes of Preference Share Capital",
+      "category": "table",
+      "classes": "Classes_Preference_Share"
+    },
+
+    {
+      "id": 9,
+      "info": "",
+      "label": "How many shareholders (promoters, owners) are to be there in the company?",
+      "category": "text",
+      "classes": "number_shareholders"
+    },
+
+    {
+      "id": 10,
+      "info": "",
+      "label": "Names of the Shareholders",
+      "category": "text",
+      "classes": "C_Name10"
+    },
+
+    {
+      "id": 11,
+      "info": "Only required if the person was director in another company",
+      "label": "Please enter DIN(Director Identification Number) if the 1st shareholder already has a DIN?",
+      "category": "text",
+      "classes": "DIN_1_shareholder"
+    },
+
+    {
+      "id": 12,
+      "info": "Only required if the person was director in another company",
+      "label": "Whether the 1st shareholder is also a director in the company?",
+      "category": "radio",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "classes": "status_2_shareholder"
+    },
+
+    {
+      "id": 13,
+      "info": "",
+      "label": "Does the shareholder already have a DSC (Digital Signature Certificate)?",
+      "category": "radio",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "classes": "DSC_1_shareholder"
+    },
+
+    {
+      "id": 14,
+      "info": "",
+      "label": "Percentage of Shareholding of 1st Shareholder in the company",
+      "category": "text",
+      "classes": "shareholding_1_shareholder"
+    },
+
+    {
+      "id": 15,
+      "info": "",
+      "label": "Email ID,Phone number and place of birth of the 1st Shareholder",
+      "category": "text",
+      "classes": "info_1_shareholder"
+    },
+
+    {
+      "id": 16,
+      "info": "",
+      "label": "Present Address of the 1st Shareholder",
+      "category": "address",
+      "options": [
+        "Line 1",
+        "Line 2",
+        "Pin code",
+        "arealocality",
+        "City",
+        "District",
+        "State",
+        "Country",
+        "Phone(with STD/ISD code)"
+      ],
+      "classes": "address_1_shareholder"
+    },
+
+    {
+      "id": 17,
+      "info": "",
+      "label": "Duration of stay at the present address",
+      "category": "dropdown",
+      "classes": "stay_present_address_1_shareholder"
+    },
+
+    {
+      "id": 18,
+      "info": "",
+      "label": "Educational Qualification of the 1st Shareholder",
+      "category": "text",
+      "classes": "education_1_shareholder"
+    },
+
+    {
+      "id": 19,
+      "info": "",
+      "label": "Occupation of the 1st Shareholder",
+      "category": "text",
+      "classes": "occupation_1_shareholder"
+    },
+
+    {
+      "id": 20,
+      "info": "",
+      "label": "Designation",
+      "category": "radio",
+      "options": [
+        "Director",
+        "Managing Director",
+        "Whole Time Director",
+        "Nominee Director"
+      ],
+      "classes": "designation_1_shareholder"
+    },
+
+    {
+      "id": 21,
+      "info": "",
+      "label": "Category",
+      "category": "radio",
+      "options": [
+        "Promoter",
+        "Professional",
+        "Independent",
+        "Nominee"
+      ],
+      "classes": "category_1_shareholder"
+    },
+
+    {
+      "id": 22,
+      "info": "",
+      "label": "Whether",
+      "category": "radio",
+      "options": [
+        "Chairman",
+        "Executive Director",
+        "Non-executive Director"
+      ],
+      "classes": "position_1_shareholder"
+    },
+
+    {
+      "id": 23,
+      "info": "",
+      "label": "Citizenship status of the 1st Shareholder",
+      "category": "radio",
+      "options": [
+        "Indian",
+        "NRI",
+        "PIO",
+        "Foreign Citizen",
+        "Other"
+      ],
+      "classes": "citizenship_1_shareholder"
+    },
+
+    {
+      "id": 24,
+      "info": "A copy of the passport size photo would also work, please provide a clear picture",
+      "label": "Please upload the Photo of the 1st Shareholder",
+      "category": "file",
+      "classes": "photo_1_shareholder"
+    },
+
+    {
+      "id": 25,
+      "info": "",
+      "label": "Please upload the PAN Card of the 1st Shareholder",
+      "category": "file",
+      "classes": "pan_1_shareholder"
+    },
+
+    {
+      "id": 26,
+      "info": "Aadhar Card(Front and Back) / Passport / Voter's ID / Driving License",
+      "label": "Please upload adhaar proof of 1st shareholder",
+      "category": "file",
+      "classes": "aadhar_1_shareholder"
+    },
+
+    {
+      "id": 27,
+      "info": "Bank Statement / Electricity Bill / Mobile Bill / Phone Bill (NOT OLDER THAN 2 MONTHS FROM TODAY). If Bank passbook is being uploaded, please attach the front page of the passbook along with a transaction statement with at-least one transaction not older than 2 months.",
+      "label": "Please upload the address proof of the 1st shareholder",
+      "category": "file",
+      "classes": "address_proof_1_shareholder"
+    },
+
+    {
+      "id": 28,
+      "info": "Only required if the person was director in another company",
+      "label": "Please enter DIN (Director Identification Number) if the 2nd shareholder already has a DIN?",
+      "category": "text",
+      "classes": "DIN_2_shareholder"
+    },
+
+    {
+      "id": 29,
+      "info": "Only required if the person was director in another company",
+      "label": "Whether the 2nd shareholder is also a director in the company?",
+      "category": "radio",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "classes": "status_2_shareholder"
+    },
+
+    {
+      "id": 30,
+      "info": "",
+      "label": "Does the shareholder already have a DSC (Digital Signature Certificate)?",
+      "category": "radio",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "classes": "DSC_2_shareholder"
+    },
+
+    {
+      "id": 31,
+      "info": "",
+      "label": "Percentage of Shareholding of 2nd Shareholder in the company",
+      "category": "text",
+      "classes": "Shareholding_2_shareholder"
+    },
+
+    {
+      "id": 32,
+      "info": "",
+      "label": "Email ID,Phone number and place of birth of the 2nd Shareholder",
+      "category": "text",
+      "classes": "info_2_shareholder"
+    },
+
+    {
+      "id": 33,
+      "info": "",
+      "label": "Present Address of the 2nd Shareholder",
+      "category": "address",
+      "options": [
+        "Line 1",
+        "Line 2",
+        "Pin code",
+        "arealocality",
+        "City",
+        "District",
+        "State",
+        "Country",
+        "Phone(with STD/ISD code)"
+      ],
+      "classes": "address_2_shareholder"
+    },
+
+    {
+      "id": 34,
+      "info": "",
+      "label": "Duration of stay at the present address",
+      "category": "dropdown",
+      "classes": "stay_present_address_2_shareholder"
+    },
+
+    {
+      "id": 35,
+      "info": "",
+      "label": "Educational Qualification of the 2nd Shareholder",
+      "category": "text",
+      "classes": "education_2_shareholder"
+    },
+
+    {
+      "id": 36,
+      "info": "",
+      "label": "Occupation of the 2nd Shareholder",
+      "category": "text",
+      "classes": "occupation_2_shareholder"
+    },
+
+    {
+      "id": 37,
+      "info": "",
+      "label": "Designation",
+      "category": "radio",
+      "options": [
+        "Director",
+        "Managing Director",
+        "Whole Time Director",
+        "Nominee Director"
+      ],
+      "classes": "designation_2_shareholder"
+    },
+
+    {
+      "id": 38,
+      "info": "",
+      "label": "Category",
+      "category": "radio",
+      "options": [
+        "Promoter",
+        "Professional",
+        "Independent",
+        "Nominee"
+      ],
+      "classes": "category_2_shareholder"
+    },
+
+    {
+      "id": 39,
+      "info": "",
+      "label": "Whether",
+      "category": "radio",
+      "options": [
+        "Chairman",
+        "Executive Director",
+        "Non-executive Director"
+      ],
+      "classes": "position_2_shareholder"
+    },
+
+    {
+      "id": 40,
+      "info": "",
+      "label": "Citizenship status of the 2nd Shareholder",
+      "category": "radio",
+      "options": [
+        "Indian",
+        "NRI",
+        "PIO",
+        "Foreign Citizen",
+        "Other"
+      ],
+      "classes": "citizenship_2_shareholder"
+    },
+
+    {
+      "id": 41,
+      "info": "A copy of the passport size photo would also work, please provide a clear picture",
+      "label": "Please upload the Photo of the 2nd Shareholder",
+      "category": "file",
+      "classes": "photo_2_shareholder"
+
+    },
+
+    {
+      "id": 42,
+      "info": "",
+      "label": "Please upload the PAN Card of the 2nd Shareholder",
+      "category": "file",
+      "classes": "pan_2_shareholder"
+    },
+
+    {
+      "id": 43,
+      "info": "Aadhar Card(Front and Back) / Passport / Voter's ID / Driving License",
+      "label": "Please upload adhaar proof of 2nd shareholder",
+      "category": "file",
+      "classes": "aadhar_2_shareholder"
+    },
+
+    {
+      "id": 44,
+      "info": "Bank Statement / Electricity Bill / Mobile Bill / Phone Bill (NOT OLDER THAN 2 MONTHS FROM TODAY). If Bank passbook is being uploaded, please attach the front page of the passbook along with a transaction statement with at-least one transaction not older than 2 months.",
+      "label": "Please upload the address proof of the 2nd shareholder",
+      "category": "file",
+      "classes": "address_proof_2_shareholder"
+    },
+    {
+      "id": 45,
+      "info": "Only required if the person was director in another company",
+      "label": "Please enter DIN (Director Identification Number) if the 3rd shareholder already has a DIN?",
+      "category": "text",
+      "classes": "DIN_3_shareholder"
+    },
+
+    {
+      "id": 46,
+      "info": "Only required if the person was director in another company",
+      "label": "Whether the 3nd shareholder is also a director in the company?",
+      "category": "radio",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "classes": "status_3_shareholder"
+    },
+
+    {
+      "id": 47,
+      "info": "",
+      "label": "Does the shareholder already have a DSC (Digital Signature Certificate)?",
+      "category": "radio",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "classes": "DSC_3_shareholder"
+    },
+
+    {
+      "id": 48,
+      "info": "",
+      "label": "Percentage of Shareholding of 3rd Shareholder in the company",
+      "category": "text",
+      "classes": "Shareholding_3_shareholder"
+    },
+
+    {
+      "id": 49,
+      "info": "",
+      "label": "Email ID,Phone number and place of birth of the 3rd Shareholder",
+      "category": "text",
+      "classes": "info_3_shareholder"
+    },
+
+    {
+      "id": 50,
+      "info": "",
+      "label": "Present Address of the 3rd Shareholder",
+      "category": "address",
+      "options": [
+        "Line 1",
+        "Line 2",
+        "Pin code",
+        "arealocality",
+        "City",
+        "District",
+        "State",
+        "Country",
+        "Phone(with STD/ISD code)"
+      ],
+      "classes": "address_3_shareholder"
+    },
+
+    {
+      "id": 51,
+      "info": "",
+      "label": "Duration of stay at the present address",
+      "category": "dropdown",
+      "classes": "stay_present_address_3_shareholder"
+    },
+
+    {
+      "id": 52,
+      "info": "",
+      "label": "Educational Qualification of the 3rd Shareholder",
+      "category": "text",
+      "classes": "education_3_shareholder"
+    },
+
+    {
+      "id": 53,
+      "info": "",
+      "label": "Occupation of the 3rd Shareholder",
+      "category": "text",
+      "classes": "occupation_3_shareholder"
+    },
+
+    {
+      "id": 54,
+      "info": "",
+      "label": "Designation",
+      "category": "radio",
+      "options": [
+        "Director",
+        "Managing Director",
+        "Whole Time Director",
+        "Nominee Director"
+      ],
+      "classes": "designation_3_shareholder"
+    },
+
+    {
+      "id": 55,
+      "info": "",
+      "label": "Category",
+      "category": "radio",
+      "options": [
+        "Promoter",
+        "Professional",
+        "Independent",
+        "Nominee"
+      ],
+      "classes": "category_3_shareholder"
+    },
+
+    {
+      "id": 56,
+      "info": "",
+      "label": "Whether",
+      "category": "radio",
+      "options": [
+        "Chairman",
+        "Executive Director",
+        "Non-executive Director"
+      ],
+      "classes": "position_3_shareholder"
+    },
+
+    {
+      "id": 57,
+      "info": "",
+      "label": "Citizenship status of the 3rd Shareholder",
+      "category": "radio",
+      "options": [
+        "Indian",
+        "NRI",
+        "PIO",
+        "Foreign Citizen",
+        "Other"
+      ],
+      "classes": "citizenship_3_shareholder"
+    },
+
+    {
+      "id": 57,
+      "info": "A copy of the passport size photo would also work, please provide a clear picture",
+      "label": "Please upload the Photo of the 3rd Shareholder",
+      "category": "file",
+      "classes": "photo_3_shareholder"
+
+    },
+
+    {
+      "id": 58,
+      "info": "",
+      "label": "Please upload the PAN Card of the 3rd Shareholder",
+      "category": "file",
+      "classes": "pan_3_shareholder"
+    },
+
+    {
+      "id": 59,
+      "info": "Aadhar Card(Front and Back) / Passport / Voter's ID / Driving License",
+      "label": "Please upload adhaar proof of 3rd shareholder",
+      "category": "file",
+      "classes": "aadhar_3_shareholder"
+    },
+
+    {
+      "id": 60,
+      "info": "Bank Statement / Electricity Bill / Mobile Bill / Phone Bill (NOT OLDER THAN 2 MONTHS FROM TODAY). If Bank passbook is being uploaded, please attach the front page of the passbook along with a transaction statement with at-least one transaction not older than 2 months.",
+      "label": "Please upload the address proof of the 3rd shareholder",
+      "category": "file",
+      "classes": "address_proof_3_shareholder"
+    },
+    {
+      "id": 61,
+      "info": "Only required if the person was director in another company",
+      "label": "Please enter DIN (Director Identification Number) if the 3rd shareholder already has a DIN?",
+      "category": "text",
+      "classes": "DIN_4_shareholder"
+    },
+
+    {
+      "id": 62,
+      "info": "Only required if the person was director in another company",
+      "label": "Whether the 3rd shareholder is also a director in the company?",
+      "category": "radio",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "classes": "status_4_shareholder"
+    },
+
+    {
+      "id": 63,
+      "info": "",
+      "label": "Does the shareholder already have a DSC (Digital Signature Certificate)?",
+      "category": "radio",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "classes": "DSC_4_shareholder"
+    },
+
+    {
+      "id": 64,
+      "info": "",
+      "label": "Percentage of Shareholding of 4th Shareholder in the company",
+      "category": "text",
+      "classes": "Shareholding_4_shareholder"
+    },
+
+    {
+      "id": 65,
+      "info": "",
+      "label": "Email ID,Phone number and place of birth of the 4th Shareholder",
+      "category": "text",
+      "classes": "info_4_shareholder"
+    },
+
+    {
+      "id": 66,
+      "info": "",
+      "label": "Present Address of the 4th Shareholder",
+      "category": "address",
+      "options": [
+        "Line 1",
+        "Line 2",
+        "Pin code",
+        "arealocality",
+        "City",
+        "District",
+        "State",
+        "Country",
+        "Phone(with STD/ISD code)"
+      ],
+      "classes": "address_4_shareholder"
+    },
+
+    {
+      "id": 67,
+      "info": "",
+      "label": "Duration of stay at the present address",
+      "category": "dropdown",
+      "classes": "stay_present_address_4_shareholder"
+    },
+
+    {
+      "id": 68,
+      "info": "",
+      "label": "Educational Qualification of the 4th Shareholder",
+      "category": "text",
+      "classes": "education_4_shareholder"
+    },
+
+    {
+      "id": 69,
+      "info": "",
+      "label": "Occupation of the 4th Shareholder",
+      "category": "text",
+      "classes": "occupation_4_shareholder"
+    },
+
+    {
+      "id": 70,
+      "info": "",
+      "label": "Designation",
+      "category": "radio",
+      "options": [
+        "Director",
+        "Managing Director",
+        "Whole Time Director",
+        "Nominee Director"
+      ],
+      "classes": "designation_4_shareholder"
+    },
+
+    {
+      "id": 71,
+      "info": "",
+      "label": "Category",
+      "category": "radio",
+      "options": [
+        "Promoter",
+        "Professional",
+        "Independent",
+        "Nominee"
+      ],
+      "classes": "category_4_shareholder"
+    },
+
+    {
+      "id": 72,
+      "info": "",
+      "label": "Whether",
+      "category": "radio",
+      "options": [
+        "Chairman",
+        "Executive Director",
+        "Non-executive Director"
+      ],
+      "classes": "position_4_shareholder"
+    },
+
+    {
+      "id": 73,
+      "info": "",
+      "label": "Citizenship status of the 4th Shareholder",
+      "category": "radio",
+      "options": [
+        "Indian",
+        "NRI",
+        "PIO",
+        "Foreign Citizen",
+        "Other"
+      ],
+      "classes": "citizenship_4_shareholder"
+    },
+
+    {
+      "id": 74,
+      "info": "A copy of the passport size photo would also work, please provide a clear picture",
+      "label": "Please upload the Photo of the 4th Shareholder",
+      "category": "file",
+      "classes": "photo_4_shareholder"
+
+    },
+
+    {
+      "id": 75,
+      "info": "",
+      "label": "Please upload the PAN Card of the 4th Shareholder",
+      "category": "file",
+      "classes": "pan_4_shareholder"
+    },
+
+    {
+      "id": 76,
+      "info": "Aadhar Card(Front and Back) / Passport / Voter's ID / Driving License",
+      "label": "Please upload adhaar proof of 4th shareholder",
+      "category": "file",
+      "classes": "aadhar_4_shareholder"
+    },
+
+    {
+      "id": 77,
+      "info": "Bank Statement / Electricity Bill / Mobile Bill / Phone Bill (NOT OLDER THAN 2 MONTHS FROM TODAY). If Bank passbook is being uploaded, please attach the front page of the passbook along with a transaction statement with at-least one transaction not older than 2 months.",
+      "label": "Please upload the address proof of the 4th shareholder",
+      "category": "file",
+      "classes": "address_proof_4_shareholder"
+    },
+
+
+    {
+      "id": 78,
+      "info": "",
+      "label": "Are the directors the same as shareholders?",
+      "category": "radio",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "classes": "Director_Shareholder_same"
+    },
+
+    {
+      "id": 79,
+      "info": "Please enter the name of the Director who would be signing the incorporation documents on behalf of the company",
+      "label": "Authorised Signatory of the Company",
+      "category": "text",
+      "classes": "Authorized_Signatory"
+    },
+
+    {
+      "id": 80,
+      "info": "A copy of the signature of the Authorised signatory mentioned above on a white paper. The same is required as an attachment in the incorporation documents that is submitted to MCA.",
+      "label": "Specimen Signature of the Authorised Signatory",
+      "category": "file",
+      "classes": "Specimen_Authorized_Signatory"
+    },
+
+    {
+      "id": 81,
+      "info": "Authorised capital is the MAXIMUM AMOUNT that you can invest in the company. PLEASE NOTE the amount mentioned here NEED NOT BE DEPOSITED in the bank account of the company. The minimum authorised capital as per law is ₹ 1,00,000",
+      "label": "What is the authorised capital of the proposed company?",
+      "category": "text",
+      "classes": "authorized_capital"
+    },
+
+    {
+      "id": 82,
+      "info": "Paid-up capital is the amount THAT NEEDS TO BE DEPOSITED TO THE BANK ACCOUNT OF THE COMPANY AFTER INCORPORATION. Please Note - There is NO MINIMUM amount to be kept as paid-up capital of the company, but we suggest you to keep it at ₹ 10,000 as banks usually require a minimum balance of at-least ₹ 10,000 and the same needs to be deposited into the bank account of the company",
+      "label": "What is the paid-up capital of the proposed company?",
+      "category": "text",
+      "classes": "paidup_capital"
+    },
+
+    {
+      "id": 83,
+      "info": "",
+      "label": "Would you require Web Development,Pitch Deck,Notion,Investor proposal services post incorporation of your Company?",
+      "category": "radio",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "classes": "post_incorp_services"
+    },
+    
+    {
+      "id": 84,
+      "info": "This section is optional and it is not related to the incorporation of the company. We may use the above details once your company is incorporated.",
+      "label": "Authorize us to use your name, photograph and the name of the company in our website for marketing.",
+      "category": "radio",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "classes": "Marketing_Authorization"
+    }
+  ]
+  

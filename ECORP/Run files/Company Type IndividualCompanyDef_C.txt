@@ -1,0 +1,64 @@
+Company Type: Individual/Company/Def_C_Type;
+Income Type:Salaried/NonSalaried/Def_I_Type;
+Area;
+Company Name:C_Name
+Individual Name:I_Name
+Pension:True/False
+Exemption:True/False
+Exception:(NOT)cases
+Total return/loss income:TRI
+Profession:'legal','engineering','medical','accountancy','technical consultancy','interior decoration','Legal','transportation','architectural'
+Government Sector:True/False
+Pension_Type:(!depending upon what kind of pension is)
+Trust:TRUST-True/False
+Corporate:True/False
+Company :'CHEMICALS & PHERMACEUTICALS','CONTRACT BUSINESS','TEXTILE & FABRICS'
+
+example
+[(Individual)(NonSalaried)(TRI<10)(Area:)][(Company)(C_Name:A-Z)(TRI>20]
+
+(Exemption)(Clauses:)
+
+[(Company)(Ahmedabad)(C_Name: ‘S’ or  ‘U or ‘W’ or ‘Y’)(TRI > 30 )]
+
+[(Company) (Hyderabad and Ranga Reddy)( C_Name: ‘R’, ‘Sa’ to ‘Sh’)]
+
+[(Individual)(Pension)]
+[(NonSalaried) (Khurda and Nayagarh)( (NOT) Bhubaneswar Municipal Corporation )(TRI >15)]
+[(Areas covered  postal PIN Code 751002, 751020, 751006, 751018, 751014, 751003, 751030 and 751019)]
+
+
+[(Individual)(Salaried)(TRI <  10 )( Agra Nagar Nigam, Agra: 1, 2, 3, 4, 6, 11, 13, 14, 15,16, 18, 20, 21, 22, 23, 24, 26, 27, 29, 32, 33, 34, 35, 37, 38, 39, 40, 41, 42, 43, 45, 46, 47, 48, 49, 50, 52, 53, 55, 57, 58, 60, 64, 65, 68, 70, 71, 72, 74 ,78)(C_Name: A to F)]
+[(Individual)(NonSalaried)(Profession:Legal), (Profession:medical), (Profession:engineering) (Profession:architectural) (Profession:accountancy) (Profession:technical consultancy)(Profession:interior decoration) (Profession:transportation)(TRI <  10 )(Agra Nagar Nigam, Agra: 1, 2, 3, 4, 6, 11, 13, 14, 15,16, 18, 20, 21, 22, 23, 24, 26, 27, 29, 32, 33, 34, 35, 37, 38, 39, 40, 41, 42, 43, 45, 46, 47, 48, 49, 50, 52, 53, 55, 57, 58, 60, 64, 65, 68, 70, 71, 72, 74, 78)(C_Name: A to F)]
+[(Company)(TRI <  15 )(Agra)(C_Name: A to F)]
+[(Individual)(Salaried)(TRI <  10 )(NonSalaried)(Agra Nagar Nigam, Agra: 5, 12, 17, 19, 25, 28, 30, 31, 36, 44, 51, 54, 56, 59, 61, 62, 63, 66, 67, 73, 75, 76, 77, 79, 80)(C_Name: A to F)]
+[(Individual)(NonSalaried)(TRI <  10 )(Agra Nagar Nigam, Agra: 5, 12, 17, 19, 25, 28, 30, 31, 36, 44, 51, 54, 56, 59, 61, 62, 63, 66, 67, 73, 75, 76, 77, 79, 80)(C_Name: A to F)]
+
+
+What needs to be done for now:
+1. Create a generic model without exemption and NOT cases
+2. Need to add clauses for exemption later.
+3. need to make another model to take input from their accounts and then get it to find the values of TRI.
+
+
+Things to ignore for now
+1. Exemption
+2. govt./non govt.
+
+
+Noncorporate = Individual
+Coporate=Company
+Trust,Pension,Govt/NoGovt=Checkbox/Dropdown
+
+
+Things i need to ask
+1. What is Govt and Non govt
+2. Do we encorporate individuals as well ?
+3. If yes , how do we get inputs over Pension?
+4. Individual got trusts?
+5. What about exemption cases and clauses?
+6. What are Coporate and NonCorporate?
+7. The regex for C_Name like AH ,ag,etc.
+8.(NOT) cases
+9.Juridisction conditions.
+10.

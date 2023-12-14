@@ -1,0 +1,13 @@
+<!-- gst_registration/templates/registration_form.html -->
+
+<html>
+<body>
+    <form method="post" action="{% url 'registration_process' %}">
+        <!-- Display your form fields -->
+        <label for="captcha">Enter Captcha:</label>
+        <input type="text" name="captcha" required>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

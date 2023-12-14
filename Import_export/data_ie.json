@@ -1,0 +1,130 @@
+{
+    "iecRequestDirectorDetailsDTOs": [],
+    "modifyReqType": "Update PAN Details",
+    "iecRequestGeneralDetailsDTO": {
+        "deficiency": "",
+        "natureOfConcern": {
+            "key": "111000113",
+            "value": "Private Limited"
+        },
+        "entityName": "BB FINERY PRIVATE LIMITED",
+        "panNumber": "AALCB5105H",
+        "nameAsPan": "BB FINERY PRIVATE LIMITED",
+        "birthdate": "12/04/2023",
+        "preferredActivity": {
+            "key": "111000121",
+            "value": "Merchant Exporter"
+        },
+        "sezEntity": "NO",
+        "eouEntity": "NO",
+        "cin": "U82990KA2023PTC172277",
+        "gstin": "",
+        "addMobile": "7050541423",
+        "mobOrEmailModified": "false",
+        "addEmail": "Satvikmishra2615@gmail.com",
+        "otpMobile": "",
+        "otpEmail": "",
+        "pleaseSpecifyNatureOfConcern": "",
+        "pleaseSpecifyPreferred": "",
+        "AttachmentString_generalAttach": "2023/09/01/1693548532247_2480511743773392403.tmp* *Part B statement (2).pdf* *0",
+        "formId": "addForm",
+        "customFunction": "",
+        "attachmentName": "addressAttach",
+        "attachmentComponentHeader_generalAttach": "Remarks",
+        "maxNoOfAttachmentAllowed_generalAttach": "5",
+        "maxFileSizeAllowed_generalAttach": "5",
+        "mandatoryFlag_generalAttach": "Y",
+        "allowedExtensions_generalAttach": "pdf",
+        "prevAttachId_generalAttach": "",
+        "totalFileSize_generalAttach": "0.19",
+        "fileName_generalAttach": "Part B statement (2).pdf",
+        "entityAddress": "BMS COLLEGE OF ENGINEERING",
+        "addressLine2": "BULL TEMPLE ROAD",
+        "pincode": "560004",
+        "city": "BANGALORE",
+        "state": {
+            "key": "29",
+            "value": "KARNATAKA"
+        },
+        "district": {
+            "key": "273",
+            "value": "BENGALURU URBAN"
+        },
+        "dgft": {
+            "key": "11100008",
+            "value": "RA BENGALURU"
+        },
+        "AttachmentString_addressAttach": "2023/09/01/1693548561599_8772271865429898078.tmp* *Part B statement (2).pdf* *0",
+        "attachmentComponentHeader_addressAttach": "Remarks",
+        "maxNoOfAttachmentAllowed_addressAttach": "5",
+        "maxFileSizeAllowed_addressAttach": "5",
+        "mandatoryFlag_addressAttach": "Y",
+        "allowedExtensions_addressAttach": "pdf",
+        "prevAttachId_addressAttach": "",
+        "totalFileSize_addressAttach": "0.19",
+        "fileName_addressAttach": "Part B statement (2).pdf",
+        "sezBranch": "NO",
+        "eouBranch": "NO",
+        "gstinBranch": "",
+        "branchAddressLine1": "",
+        "branchAddressLine2": "",
+        "branchCity": "",
+        "branchPinCode": "",
+        "gstinValidated": "",
+        "iecRequestBranchDetailsDTOs": [{
+            "sezBranch": "NO",
+            "eouBranch": "NO",
+            "branchAddressLine1": "ASDA",
+            "branchAddressLine2": "ASDA",
+            "gstinBranch": "",
+            "branchCity": "ASDA",
+            "branchDistrict_Value": "BENGALURU URBAN",
+            "branchDistrict_key": "273",
+            "branchState_Value": "KARNATAKA",
+            "branchState_key": "29",
+            "branchPinCode": "560004",
+            "branchCode": 1,
+            "branchStatus": "N",
+            "branchPkId": 0,
+            "branchManualEntryRms": "false",
+            "branchDistrict": {
+                "key": "273",
+                "value": "BENGALURU URBAN"
+            },
+            "branchState": {
+                "key": "29",
+                "value": "KARNATAKA"
+            },
+            "siNo": 1
+        }],
+        "isCINChange": false,
+        "generalDetailsAttachmentDTO": {
+            "s3Path": "2023/09/01/1693548532247_2480511743773392403.tmp* *Part B statement (2).pdf* *0",
+            "attachmentType": {
+                "key": "10000000",
+                "value": "IEC General Doc"
+            }
+        },
+        "addressDetailsAttachmentDTO": {
+            "s3Path": "2023/09/01/1693548561599_8772271865429898078.tmp* *Part B statement (2).pdf* *0",
+            "attachmentType": {
+                "key": "10000001",
+                "value": "IEC Address Doc"
+            }
+        }
+    },
+    "reqType": "applyForIEC",
+    "deficiencyDto": {
+        "deficiency": "",
+        "appId": "201000001",
+        "req_file_no": ""
+    },
+    "branchIdIncrement": "1",
+    "epcgAuthorisationDetailsVoList": [],
+    "aaAuthorisationDetailsVoList": [],
+    "lifecycleDTOs": [],
+    "dfiaAuthorisationVO": [],
+    "panIecNumber": "",
+    "mobModified": "",
+    "emailModified": ""
+}

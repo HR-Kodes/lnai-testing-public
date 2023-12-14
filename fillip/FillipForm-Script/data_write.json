@@ -1,0 +1,80 @@
+{
+  "isRegistered": "YES",
+  "srn": "1231231313",
+  "registeredAddress": {
+    "addressI": "sadad",
+    "addressII": "asdddad",
+    "pin": "560004",
+    "area": "scada",
+    "city": "adasd",
+    "District": "asdada",
+    "state": "asdada",
+    "country": "india",
+    "mobile": "6200104066"
+  },
+  "contactDetails": {
+    "phone": "asdad",
+    "mobile": "asdasd",
+    "fax": "6767676767",
+    "email": "sadad",
+    "company": "dasadad"
+  },
+  "3eAdressProofURL": "1sem marks.pdf",
+  "3eUtilityBillsURL": "1sem result ffe-1.pdf",
+  "BasicdetailsofDesignatedpartner1": {
+    "placeOfBirthState1": "asdad",
+    "placeOfBirthDistrict1": "dasda",
+    "mobileNo1": "adsd",
+    "emailid1": "asdasd"
+  },
+  "occupationType1": "Private Employment",
+  "educationalQualification1": "Primary Education",
+  "Permanentaddress1": {
+    "addressI1": "asda",
+    "addressII1": "dasda",
+    "pin1": "23424",
+    "area1": "sdcs",
+    "city1": "adasd",
+    "district1": "asda",
+    "state1": "das",
+    "country1": "addssa",
+    "phone1": "adsad"
+  },
+  "Durationofstayatpresentaddress1": {
+    "durationStayedAtPresentAddressYears1": 6,
+    "durationStayedAtPresentAddressMonth1": 3
+  },
+  "ProofOfIdentity1": {
+    "17-AADHAR_CARD_UPLOAD": "1sem marks.pdf",
+    "17-PAN_CARD_UPLOAD": "1sem result ffe.pdf",
+    "17-DATE": "2023-09-14T00:00:00.000Z",
+    "17-AADHAR_CARD_NUMBER": "adsad",
+    "17-PAN_CARD_NUMBER1": "asdasd",
+    "firstName1": "dasd",
+    "middleName1": "asd",
+    "surname1": "asda",
+    "fatherFirstName1": "asda",
+    "fatherMiddleName1": "asd",
+    "fathersurname1": "asdsa"
+  },
+  "ResidentialProof1": {
+    "18-RESIDENTIAL_PROOF_OPTION": "Electricity Bill",
+    "18-RESIDENTIAL_PROOF_UPLOAD_LINK": "1sem result ffe-1.pdf",
+    "18-RESIDENTIAL_PROOF_NUMBER": "21313131312"
+  },
+  "inCaseOfCompanySeekingConversion1": {
+    "numberOfsharesHeld1": "10000",
+    "paidupvalueofsharesheld1": "10"
+  },
+  "formOfContribution1": "Cash",
+  "monetaryValueOfContributionInFigures1": "50000",
+  "newKeyFor112": "YES",
+  "newKeyFor113": "YES",
+  "designatedpartnerID1": "1231231",
+  "total_Number_Of_Partners": 2,
+  "numberOfDesignatedPartners1": "",
+  "Number_of_Designated_partners": 2,
+  "Number_of_partners_other_than_designated_partners": 0,
+  "individualValidDINorDPIN": "1",
+  "individualNotValidDINorDPIN": "1"
+}

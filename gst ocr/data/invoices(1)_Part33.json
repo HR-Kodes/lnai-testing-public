@@ -1,0 +1,18 @@
+{
+  "AmountDue": "0.00",
+  "DueDate": "31/10/2022",
+  "InvoiceDate": "31/10/2022",
+  "InvoiceTotal": "35,525.00",
+  "IGST": null,
+  "CGST2.5": null,
+  "CGST0": null,
+  "BillingAddress": null,
+  "VendorAddress": null,
+  "SGST14": null,
+  "TotalDiscount": null,
+  "OTHER CHARGE": null,
+  "SGST2.5": null,
+  "CGST14": null,
+  "SGST0": null,
+  "VendorAddressRecipient": null
+}

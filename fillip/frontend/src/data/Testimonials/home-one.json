@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "quote": "One of the standout features is the intuitive interface, which makes it easy for our team to navigate and utilize the platform effectively. We can  manage our compliance tasks effortlessly.",
+    "author": "Yash Shendge",
+    "authorThumb": "testimonial/Yash.jpg"
+  },
+  {
+    "id": 2,
+    "quote": "The customer support team has been exceptional throughout our journey. They are responsive, knowledgeable, and always ready to assist with any questions or concerns we have.",
+    "author": "Pawan Kumar Singh",
+    "authorThumb": "testimonial/Pawan.jpg"
+  },
+  {
+    "id": 3,
+    "quote": "The platform's AI capabilities ensure that we stay compliant with the ever-changing legal landscape. It analyzes complex regulations, identifies potential risks, and offers actionable insights to mitigate them",
+    "author": "Aayushi Singh",
+    "authorThumb": "testimonial/aayushi.jpg"
+  }
+]

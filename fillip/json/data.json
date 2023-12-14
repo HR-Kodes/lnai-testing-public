@@ -1,0 +1,123 @@
+{
+  "isRegistered": "YES",
+  "srn": "13213",
+  "registeredAddress": {
+    "addressI": "sdq",
+    "addressII": "adsa",
+    "pin": "dassn",
+    "area": "kjnkjn",
+    "city": "kjnkjn",
+    "District": "kjjnnkj",
+    "state": "kjnkjn",
+    "country": "kjnkjn",
+    "mobile": "knkjn"
+  },
+  "contactDetails": {
+    "phone": "kjnjkj",
+    "mobile": "kjnkjjnkjn",
+    "fax": "kjnkjnkjnnjk",
+    "email": "knjkjnkjnkjn",
+    "company": "njknkjnjk"
+  },
+  "3eAdressProofURL": "Document (9).pdf",
+  "3eUtilityBillsURL": "Document (8).pdf",
+  "BasicdetailsofDesignatedpartner1": {
+    "placeOfBirthState1": "knjkn",
+    "placeOfBirthDistrict1": "knkjn",
+    "mobileNo1": "kjnkjn",
+    "emailid1": "kjnkjn"
+  },
+  "occupationType1": "Private Employment",
+  "educationalQualification1": "Master's Degree",
+  "Permanentaddress1": {
+    "addressI1": "kjkjn",
+    "addressII1": "kj kjjk j",
+    "pin1": "knkjkjn",
+    "area1": "knjkjnjkj",
+    "city1": "kjnkjnjn",
+    "district1": "kjnkjnjk",
+    "state1": "kjnjkjnjk",
+    "country1": "jkjnkjnk",
+    "phone1": "kjnjkjn"
+  },
+  "Durationofstayatpresentaddress1": {
+    "durationStayedAtPresentAddressYears1": 10,
+    "durationStayedAtPresentAddressMonth1": 2
+  },
+  "ProofOfIdentity1": {
+    "17-AADHAR_CARD_UPLOAD": "INV-000020.pdf",
+    "17-AADHAR_CARD_NUMBER": "knkj",
+    "17-PAN_CARD_UPLOAD": "INV-000020.pdf",
+    "17-PAN_CARD_NUMBER1": "knkj",
+    "firstName1": "knjkjn",
+    "middleName1": "kjnjkjnjkn",
+    "surname1": "kjnjkjkjnjk",
+    "fatherFirstName1": "kjnjknjk",
+    "fatherMiddleName1": "kjnjkjnjk",
+    "fathersurname1": "kjnknjj",
+    "17-DATE": "2000-09-08T18:30:00.000Z"
+  },
+  "ResidentialProof1": {
+    "18-RESIDENTIAL_PROOF_OPTION": "Electricity Bill",
+    "18-RESIDENTIAL_PROOF_UPLOAD_LINK": "Document (8).pdf",
+    "18-RESIDENTIAL_PROOF_NUMBER": "sddasd"
+  },
+  "inCaseOfCompanySeekingConversion1": {
+    "numberOfsharesHeld1": "kjnkjn",
+    "paidupvalueofsharesheld1": "kjjnkjn"
+  },
+  "formOfContribution1": "Cash",
+  "monetaryValueOfContributionInFigures1": "sdas",
+  "BasicdetailsofDesignatedpartner2": {
+    "placeOfBirthState2": "nlkkm",
+    "placeOfBirthDistrict2": "lkmlkml",
+    "mobileNo2": "nkjnjk",
+    "emailid2": "jknnknkjj"
+  },
+  "occupationType2": "Private Employment",
+  "educationalQualification2": "Secondary Education",
+  "Permanentaddress2": {
+    "addressI2": "kjnkjn",
+    "addressII2": "kjnnkjnk",
+    "pin2": "kjnkjkjn",
+    "area2": "jnkkjnjn",
+    "city2": "kjkjn",
+    "district2": "kjnjnknkjkj",
+    "state2": "knjnjjnjkj",
+    "country2": "kjkjnjkjnj",
+    "phone2": "kjnknj"
+  },
+  "Durationofstayatpresentaddress2": {
+    "26-YEAR": 10,
+    "26-MONTH": 4
+  },
+  "ProofOfIdentity2": {
+    "27-AADHAR_CARD_UPLOAD": "Document (9).pdf",
+    "27-PAN_CARD_UPLOAD": "Document (8).pdf",
+    "27-AADHAR_CARD_NUMBER": "jmn  ",
+    "17-PAN_CARD_NUMBER2": "lnjjln",
+    "firstName2": "knknjk",
+    "middleName2": "kjnkjnkjn",
+    "surname2": "kjnknkjnjkn",
+    "fatherFirstName2": "kjnkjnknjk",
+    "fatherMiddleName2": "kjnkj",
+    "fathersurname2": "kjnkjnkjn",
+    "27-DATE": "2000-09-08T18:30:00.000Z"
+  },
+  "ResidentialProof2": {
+    "28-RESIDENTIAL_PROOF_OPTION": "Electricity Bill",
+    "28-RESIDENTIAL_PROOF_UPLOAD_LINK": "Document (9).pdf",
+    "28-RESIDENTIAL_PROOF_NUMBER": "hjkjn"
+  },
+  "inCaseOfCompanySeekingConversion2": {
+    "numberOfsharesHeld2": "kjnknj",
+    "paidupvalueofsharesheld2": "kjnjknj"
+  },
+  "formOfContribution2": "Cash",
+  "monetaryValueOfContributionInFigures2": "nujk",
+  "newKeyFor112": "YES",
+  "newKeyFor113": "YES",
+  "total_Number_Of_Partners": 2,
+  "Number_of_Designated_partners": 2,
+  "individualNotValidDINorDPIN": "2"
+}
